@@ -11,7 +11,7 @@ import utor from "../images/utor.png";
 export const BlogData = [
     {
         imagee: Train,
-        title: "Korea Train Transportation System, How It Works And Tips!",
+        title: "Study Abroad to South Korea!",
         description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla.",
         content:{
             par1 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
@@ -23,7 +23,7 @@ export const BlogData = [
     },
     {
         imagee: Paper,
-        title: "Best Paper in KICS SUMMER CONFERENCE 2020 Experience",
+        title: "Data Science 101",
         description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla.",
         content:{
             par1 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
@@ -34,7 +34,7 @@ export const BlogData = [
         },    },
     {
         imagee: Alumni,
-        title: "KOREA SCIENCE AND TECHNOLOGY ALUMNI GATHERING 2019",
+        title: "Bogor Social Action (Sharing and Charity)",
         description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla.",
         content:{
             par1 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
@@ -45,7 +45,7 @@ export const BlogData = [
         },    },
     {
         imagee: python,
-        title: "10 Tips for Beginner Python Programmer to Succed in the Future",
+        title: "AKSIOMA 2016 (Student Social Action)",
         description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla.",
         content:{
             par1 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
@@ -56,7 +56,7 @@ export const BlogData = [
         },    },
     {
         imagee: costlive,
-        title: "How Much Cost to Live in Korea. A Perspective from Indonesian Student",
+        title: "Implementation of clean water supply based on renewable energy in Sumber Jaya Village, Banten District",
         description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla.",
         content:{
             par1 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
@@ -67,7 +67,7 @@ export const BlogData = [
         },    },
     {
         imagee: scholarship,
-        title: "Korea Scholarchip Made Easy with Tips",
+        title: "Start-up opportunities during the Covid-19 pandemic",
         description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla.",
         content:{
             par1 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
@@ -78,7 +78,7 @@ export const BlogData = [
         },    },
     {
         imagee: utor,
-        title: "Kookmin University Tour, All Laboratory View",
+        title: "KERSOS FTUI (Social Works of Faculty of Engineering Universitas Indonesia",
         description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla.",
         content:{
             par1 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
@@ -89,7 +89,7 @@ export const BlogData = [
         },    },
     {
         imagee: koreaengine,
-        title: "A Day with Korean Professor, How to be an Engineer",
+        title: "Study Abroad Preparation",
         description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla.",
         content:{
             par1 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
@@ -100,7 +100,7 @@ export const BlogData = [
         },    },
     {
         imagee: covid,
-        title: "Corona Virus Update in Korea. No More Lockdown",
+        title: "Coldest winter in South Korea after last 30 years",
         description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla.",
         content:{
             par1 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
