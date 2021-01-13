@@ -2,5 +2,5 @@ import achhima from "../images/achhima.png";
 
 export const AchHomeContent = {
     'img':achhima,
-    'desc':'Lorem ipsum dolor sit amet, consectetur adipiscing elit, dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris'
+    'desc':'Opportunities will not come to you, You create it! I find that the harder I work, the more luck I seem to have. - Thomas Jefferson'
 }
