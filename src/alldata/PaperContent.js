@@ -8,7 +8,7 @@ export const PaperData = [
         text: "Full-Text Available",
         date: "December 2020, Korean Artificial Intelligence Conference 2020",
         author: "Himawan Nurcahyanto, Aji Teguh Prihatno, Yeong Min Jang",
-        papimage: Paper,
+        papimage: null,
         link: "http://manuscriptlink-society-file.s3.amazonaws.com/kics/conference/koreaai/presentation/E-2-2.pdf"
     },
     {
