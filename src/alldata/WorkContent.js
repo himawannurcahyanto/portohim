@@ -18,20 +18,20 @@ import rb from "../images/RB.png";
 
 export const WorksData = [
     {
+        imgMain: Ens,
+        compname: 'ENS',
+        major:'Renewable Energy Engineer Intern',
+        date: 'Aug 2020 - Jan 2021',
+        desc:'Delay time shortening algorithm design for shortening the sensing time of weather data. Design of efficient charging/discharging scheduling algorithm by time considering PCS and battery capacity. Variable charging set value prediction design in consideration of weather in the power generation area during charging/discharging scheduling by time. Algorithm design for facility parts life cycle notification considering the warranty period of inverter parts (part replacement cycle notification service)',
+        img1: Ezex1,
+        img2: Ezex2,
+    },
+    {
         imgMain: Ezex,
         compname: 'Ezex Engineering',
         major:'Research Intern',
         date: 'Feb 2020 - Aug 2020',
         desc:'Company automation using IoT. Smart farm energy management. Developing innovative idea for smart farming. Retrieving data from the sensors in building and farm.',
-        img1: Ezex1,
-        img2: Ezex2,
-    },
-    {
-        imgMain: Ens,
-        compname: 'ENS',
-        major:'Renewable Energy Engineer Intern',
-        date: 'Aug 2020 - Present',
-        desc:'Delay time shortening algorithm design for shortening the sensing time of weather data. Design of efficient charging/discharging scheduling algorithm by time considering PCS and battery capacity. Variable charging set value prediction design in consideration of weather in the power generation area during charging/discharging scheduling by time. Algorithm design for facility parts life cycle notification considering the warranty period of inverter parts (part replacement cycle notification service)',
         img1: Ens1,
         img2: Ens2,
     },
