@@ -50,35 +50,35 @@ const AboutContent = () => {
             </ContactIcon>
             <SocialIcons>
               <SocialIconLink
-                href="https://www.facebook.com"
+                href="https://www.facebook.com/himawan.nurcahyanto/"
                 target="_blank"
                 aria-label="Facebook"
               >
                 <FaFacebookSquare />
               </SocialIconLink>
               <SocialIconLink
-                href="https://www.instagram.com"
+                href="https://www.instagram.com/himawannurcahyanto/"
                 target="_blank"
                 aria-label="Instagram"
               >
                 <FaInstagram />
               </SocialIconLink>
               <SocialIconLink
-                href="https://www.youtube.com"
+                href="https://www.youtube.com/channel/UCK_2UEc-JfIKDtWEy1_IK9g/videos"
                 target="_blank"
                 aria-label="Youtube"
               >
                 <FaYoutube />
               </SocialIconLink>
               <SocialIconLink
-                href="https://www.linkedin.com"
+                href="https://www.linkedin.com/in/himawan-nurcahyanto-b46306147/"
                 target="_blank"
                 aria-label="Linkedin"
               >
                 <FaLinkedin />
               </SocialIconLink>
               <SocialIconLink
-                href="https://www.twitter.com"
+                href="https://twitter.com/HimawanNrchynto"
                 target="_blank"
                 aria-label="Twitter"
               >
