@@ -1,18 +1,18 @@
 export const AchBanData = [
     {
         number: 6,
-        name: 'Research Items',
+        name: 'Awards',
     },
     {
-        number: 6,
-        name: 'Research Items',
+        number: 5,
+        name: 'Publications',
     },
     {
-        number: 6,
+        number: 5,
         name: 'Projects',
     },
     {
-        number: 6,
-        name: 'Projects',
+        number: 2,
+        name: 'Patents',
     },
 ]
