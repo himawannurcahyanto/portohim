@@ -24,9 +24,9 @@ export const PaperData = [
         title: "Analysis of Power Transformer's Lifetime Using Health Index Transformer Method Based on Artificial Neural Network Modeling",
         tipe: "Conference Paper",
         text: "PDF Available",
-        date: "July 2019, 2019 International Conference on Electrical Engineering and Informatics (ICEEI)",
+        date: "July 2019, International Conference on Electrical Engineering and Informatics (ICEEI)",
         author: "Jannus Maurits, Himawan Nurcahyanto, I Made Ardita, Chairul Hudaya",
         papimage: Paper1,
-        link: "https://www.researchgate.net/profile/Himawan_Nurcahyanto"
+        link: "https://ieeexplore.ieee.org/document/8988870"
     },
 ]
