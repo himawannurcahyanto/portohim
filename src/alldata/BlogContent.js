@@ -1,12 +1,12 @@
-import Paper from "../images/aksioma.png";
-import Alumni from "../images/bogorsocialaction.png";
-import Train from "../images/coldestwinterkorea.png";
-import costlive from "../images/datascience101.png";
-import covid from "../images/kersos.png";
-import koreaengine from "../images/kuliahgo.png";
-import python from "../images/persiapankekorea.png";
-import scholarship from "../images/solarsubmersible.png";
-import utor from "../images/startup.png";
+import aksioma from "../images/aksioma.png";
+import bogorsocialaction from "../images/bogorsocialaction.png";
+import coldestwinterkorea from "../images/coldestwinterkorea.png";
+import datascience101 from "../images/datascience101.png";
+import kersos from "../images/kersos.png";
+import kuliahgo from "../images/kuliahgo.png";
+import persiapankekorea from "../images/persiapankekorea.png";
+import solarsubmersible from "../images/solarsubmersible.png";
+import startup from "../images/startup.png";
 
 export const BlogData = [
     {
