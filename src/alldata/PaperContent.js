@@ -27,6 +27,6 @@ export const PaperData = [
         date: "July 2019, International Conference on Electrical Engineering and Informatics (ICEEI)",
         author: "Jannus Maurits, Himawan Nurcahyanto, I Made Ardita, Chairul Hudaya",
         papimage: Paper1,
-        link: "https://ieeexplore.ieee.org/document/8988870"
+        link: "https://www.researchgate.net/publication/339174658_Analysis_of_Power_Transformer's_Lifetime_Using_Health_Index_Transformer_Method_Based_on_Artificial_Neural_Network_Modeling"
     },
 ]
