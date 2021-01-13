@@ -8,7 +8,7 @@ import Land7 from "../images/Land7.png";
 import Land8 from "../images/Land8.png";
 
 export const GalleryValueData = [
-    {images: "https://drive.google.com/uc?export=view&id=10UeBDJ5oSxT7_MUf2pYPnPvGRAOlK4r_"},
+    {images: "https://drive.google.com/uc?export=view&id=1LoxFKk1dgf-WpLS16AhZfjewG2AmcEUB"},
     {images: "https://drive.google.com/uc?export=view&id=1EQTJK0xg_d-wr8jO7HH-wECzF_JzKXDu"},
     {images: "https://drive.google.com/uc?export=view&id=1gnr7PqmYp1L8G7zCuzXXFxpRDjNM65XD"},
     {images: "https://drive.google.com/uc?export=view&id=1yijniatdMDxRIk9Xiq9VphhwmoyIHWyt"},
