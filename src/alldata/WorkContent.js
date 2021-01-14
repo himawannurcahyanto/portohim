@@ -8,8 +8,8 @@ import bukaka from "../images/bukaka.png";
 import bukaka4 from "../images/bukaka4.jpg";
 import bukaka3 from "../images/bukaka3.jpeg";
 import pjb from "../images/PJB.png";
-import pjb1 from "../images/pjb1.png";
-import pjb2 from "../images/pjb2.png";
+import pjb4 from "../images/pjb4.jpg";
+import pjb5 from "../images/pjb5.jpg";
 import pln from "../images/PLN.png";
 import pln5 from "../images/pln5.jpg";
 import pln6 from "../images/pln6.jpg";
@@ -62,8 +62,8 @@ export const WorksData = [
         major:'Operation and Maintenance Engineer',
         date: 'July 2018',
         desc: 'Internship in PT. PJB UP MUARA KARANG Blok II. Responsible for Predictive, Corrective, and Preventive Maintenance. Learn about the principles, construction, and operations of PLTU and PLTGU. Has an experienced job about Monitored Plants Equipment and Analyze of Starting Frequency Converter principles as an intern report.',
-        img1: pjb1,
-        img2: pjb2,
+        img1: pjb4,
+        img2: pjb5,
     },
     {
         imgMain: quipper,
