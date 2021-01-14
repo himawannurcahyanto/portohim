@@ -15,6 +15,9 @@ import pln1 from "../images/pln1.png";
 import pln2 from "../images/pln2.png";
 import quipper from "../images/Quipper.png";
 import rb from "../images/RB.png";
+import xpresi1 from "../images/xpresi1.jpg"
+import xpresi2 from "../images/xpresi2.jpg"
+import xpresi3 from "../images/xpresi3.jpg"
 
 export const WorksData = [
     {
@@ -77,7 +80,7 @@ export const WorksData = [
         major:'Reporter and Illustrator',
         date: 'Jan 2014 – August 2014',
         desc:'Develop Xpresi Radar Bogor page. As a writer and reviser article content before the Radar Bogor Newspaper published. Photographer of several events of Radar Bogor. Illustrator picture in Xpresi Radar Bogor page.',
-        img1: null,
-        img2: null,
+        img1: xpresi1,
+        img2: xpresi2,
     },
 ]
