@@ -1,9 +1,9 @@
 import Ens from "../images/Ens.png";
-import Ens1 from "../images/ens1.png";
-import Ens2 from "../images/ens2.png";
+import Ens4 from "../images/ens4.jpg";
+import Ens5 from "../images/ens5.jpeg";
 import Ezex from "../images/Ezex.png";
-import Ezex1 from "../images/ezex1.png";
-import Ezex2 from "../images/ezex2.png";
+import Ezex4 from "../images/ezex4.jpg";
+import Ezex5 from "../images/ezex5.jpg";
 import bukaka from "../images/bukaka.png";
 import bukaka4 from "../images/bukaka4.jpg";
 import bukaka3 from "../images/bukaka3.jpeg";
@@ -26,8 +26,8 @@ export const WorksData = [
         major:'Renewable Energy Engineer Intern',
         date: 'Aug 2020 - Jan 2021',
         desc:'Delay time shortening algorithm design for shortening the sensing time of weather data. Design of efficient charging/discharging scheduling algorithm by time considering PCS and battery capacity. Variable charging set value prediction design in consideration of weather in the power generation area during charging/discharging scheduling by time. Algorithm design for facility parts life cycle notification considering the warranty period of inverter parts (part replacement cycle notification service)',
-        img1: Ezex1,
-        img2: Ezex2,
+        img1: Ezex4,
+        img2: Ezex5,
     },
     {
         imgMain: Ezex,
@@ -35,8 +35,8 @@ export const WorksData = [
         major:'Research Intern',
         date: 'Feb 2020 - Aug 2020',
         desc:'Company automation using IoT. Smart farm energy management. Developing innovative idea for smart farming. Retrieving data from the sensors in building and farm.',
-        img1: Ens1,
-        img2: Ens2,
+        img1: Ens4,
+        img2: Ens5,
     },
     {
         imgMain: pln,
