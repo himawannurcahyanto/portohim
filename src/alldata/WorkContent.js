@@ -11,8 +11,8 @@ import pjb from "../images/PJB.png";
 import pjb1 from "../images/pjb1.png";
 import pjb2 from "../images/pjb2.png";
 import pln from "../images/PLN.png";
-import pln1 from "../images/pln1.png";
-import pln4 from "../images/pln4.jpg";
+import pln5 from "../images/pln5.jpg";
+import pln6 from "../images/pln6.jpg";
 import quipper from "../images/Quipper.png";
 import rb from "../images/RB.png";
 import xpresi1 from "../images/xpresi1.jpg"
@@ -44,8 +44,8 @@ export const WorksData = [
         major:'Distribution System Supervisor Intern',
         date: 'Sep 2018 - Apr 2019',
         desc: 'Responsible for the maintenance of electricity distribution systems to consumers. Analyze of power outage disturbances in Lenteng Agung area. As an Electrical supervisor in replacement of electrical equipment, and also responsible to Improve the efficiency of distributing electricity in Lenteng Agung area.',
-        img1: pln1,
-        img2: pln4,
+        img1: pln5,
+        img2: pln6,
     },
     {
         imgMain: bukaka,
