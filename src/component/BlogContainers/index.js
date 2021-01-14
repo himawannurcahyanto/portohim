@@ -51,7 +51,12 @@ const BlogContainers = ({match}) => {
                         <BoxContainer>{data.content.par2}</BoxContainer> <br/>
                         <BoxContainer>{data.content.par3}</BoxContainer> <br/>
                         <BoxContainer>{data.content.par4}</BoxContainer> <br/>
-                        <BoxContainer>{data.content.par5}</BoxContainer>
+                        <BoxContainer>{data.content.par5}</BoxContainer> <br/>
+                        <BoxContainer>{data.content.par6}</BoxContainer> <br/>
+                        <BoxContainer>{data.content.par7}</BoxContainer> <br/>
+                        <BoxContainer>{data.content.par8}</BoxContainer> <br/>
+                        <BoxContainer>{data.content.par9}</BoxContainer> <br/>
+                        <BoxContainer>{data.content.par10}</BoxContainer>
                     </BlogWrapped>
                     <h4>Share To</h4>
                     <RWebShare

@@ -15,4 +15,12 @@ export const AchBanData = [
         number: 2,
         name: 'Patents',
     },
+    {
+        number: 2,
+        name: 'Patents',
+    },
+    {
+        number: 2,
+        name: 'Patents',
+    },
 ]

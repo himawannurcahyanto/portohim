@@ -16,10 +16,11 @@ const GalleryContent = () => {
             <GalleryImage 
                 src = {images} 
                 alt= {images} 
-                effect="blur" 
-                placeholderSrc={HNLogo}
+                effect="blur"
+                placeholderSrc={images}
+                width={`190px`}
             />
-        );
+        )
     };
     return(
         <GlobalContent>
@@ -28,13 +29,16 @@ const GalleryContent = () => {
                 <Viewedin to="/galleries">View All <BsFillCaretRightFill target="_blank"/></Viewedin>
             </TitleHomeContent>
             <GalleryContainer>
-                {GalleryValueData.map((data, idx) => (
-                <ManageGalleryData
-                    key={idx}
-                    images={data.images}
-                    alt={data.images}
-                />
-                ))}
+                {GalleryValueData.map((data, idx) => {
+                    if(idx < 8){
+                        return(
+                            <ManageGalleryData
+                                key={idx}
+                                images={data.images}
+                                alt={data.images}
+                            />
+                    )}
+                        })}
             </GalleryContainer>
         </GlobalContent>
     );

@@ -2,8 +2,11 @@ import styled from 'styled-components';
 
 export const PubTable = styled.div`
   overflow: auto;
-  height: 250px;
+  height: 500px;
   text-align:center;
+  @media screen and (max-width: 666px) {
+    height: 350px;
+}
 `;
 
 export const TableStyle = styled.div`

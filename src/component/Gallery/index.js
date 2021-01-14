@@ -7,7 +7,12 @@ import HNLogo from "../../images/HNLogo.png"
 
 const ManageGalleryValueData = ({images}) => {
     return(
-        <GalleryImage src = {images} alt= {images} effect="blur" placeholderSrc={HNLogo}/>
+        <GalleryImage 
+        src = {images} 
+        alt= {images} 
+        effect="blur" 
+        placeholderSrc={images}
+        />
     );
 };
 

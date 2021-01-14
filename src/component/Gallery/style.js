@@ -16,6 +16,7 @@ export const GalleryContainer = styled.div`
     grid-template-rows: auto auto;
     grid-gap: 20px;
     padding: 12px;
+    overflow-x:hidden;
     @media screen and (max-width: 1015px) {
         grid-template-columns: auto auto auto;
         grid-template-rows: auto auto;

@@ -2,18 +2,18 @@ import styled from "styled-components";
 
 export const ItemBoxGrid = styled.div`
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: auto auto auto;
     grid-gap: 40px;
     padding: 12px;
     width: 65%;
-    height: 300px;
     @media screen and (max-width: 1014px) {
+        grid-template-columns: auto auto;
         margin: 0 auto;
         width: 50%;
         grid-gap: 30px;
     }
     @media screen and (max-width: 676px) {
-        margin: 0 auto;
+        margin: 0 20px;
         width: 80%;
         grid-gap: 20px;
     }

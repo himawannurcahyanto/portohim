@@ -6,23 +6,21 @@ export const GalleryContainer = styled.div`
     grid-template-columns: auto auto auto auto;
     grid-template-rows: auto auto;
     grid-gap: 20px;
-    height: 420px;
-    overflow-y: hidden;
+    overflow-x:hidden;
     @media screen and (max-width: 1015px) {
         grid-template-columns: auto auto auto;
         grid-template-rows: auto auto;
-        margin: 0 100px;
-        margin: auto;
+        margin: 0 auto;
       }
     @media screen and (max-width: 709px) {
-        grid-template-columns: 49% 49%;
+        text-align:center;
+        grid-template-columns: 40% 30%;
         grid-template-rows: auto;
-        grid-gap: 4px;
-        padding: 0px;
-        margin: 0 auto;
-        height: 560px;
+        grid-gap: 15px;s
+        width:100%;
     }
 `;
+
 
 export const GalleryImage = styled(LazyLoadImage)`
     width: 190px;

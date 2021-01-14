@@ -36,14 +36,16 @@ const BlogContent = () => {
               <Viewedin to="/blog">View All <BsFillCaretRightFill target="_blank"/></Viewedin>
             </TitleHomeContent>
             <BlogContainer>
-            {BlogData.map((data,idx) => (
+            {BlogData.map((data,idx) => {
+              if(idx<6){
+                return(
               <ManageBlogData
                 key={idx}
                 medias={data.imagee}
                 title={data.title}
                 description={data.description}
               />
-            ))}
+            )}})}
             </BlogContainer>
         </GlobalContent>
     );
