@@ -5,7 +5,7 @@ import Ezex from "../images/Ezex.png";
 import Ezex1 from "../images/ezex1.png";
 import Ezex2 from "../images/ezex2.png";
 import bukaka from "../images/bukaka.png";
-import bukaka4 from "../images/bukaka4.png";
+import bukaka4 from "../images/bukaka4.jpg";
 import bukaka2 from "../images/bukaka2.png";
 import pjb from "../images/PJB.png";
 import pjb1 from "../images/pjb1.png";
