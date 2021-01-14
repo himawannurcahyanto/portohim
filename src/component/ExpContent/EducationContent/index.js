@@ -23,7 +23,7 @@ const ManageEduData = ({ imgl,edu, major,year,desc,imgr }) => {
                     <ExpWrite year>{year}</ExpWrite>
                     <ExpWrite desc>{desc}</ExpWrite>
                 </EduPart>
-                <EduPart><img src = {imgr} /></EduPart>
+                <EduPart><img src = {imgr} width={`128px`}/></EduPart>
             </BoxExpContain>
         </WrapperContent>
     );
