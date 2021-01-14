@@ -6,7 +6,7 @@ import Ezex1 from "../images/ezex1.png";
 import Ezex2 from "../images/ezex2.png";
 import bukaka from "../images/bukaka.png";
 import bukaka4 from "../images/bukaka4.jpg";
-import bukaka2 from "../images/bukaka2.png";
+import bukaka3 from "../images/bukaka3.jpeg";
 import pjb from "../images/PJB.png";
 import pjb1 from "../images/pjb1.png";
 import pjb2 from "../images/pjb2.png";
@@ -54,7 +54,7 @@ export const WorksData = [
         date: 'Jan 2018 – Feb 2018',
         desc:'Observe and analyse the working principle and construction of mini-hydro power plant PLTMH Cisono (Garut) and PLTMH Cisanggiri (Pelabuhan Ratu) from its working process, protection, and single line diagram (SLD).',
         img1: bukaka4,
-        img2: bukaka2,
+        img2: bukaka3,
     },
     {
         imgMain: pjb,
