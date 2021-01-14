@@ -26,7 +26,7 @@ export const EduData = [
         imgl: Smabo,
         edu: 'SMA Negeri 1 Bogor',
         major:'Science',
-        year: '2012 - 2015',
+        year: '2012 - 2019',
         desc:'Activities and Societies: Graduate with an excellent grade from most favorite public high school in Bogor Indonesia and one of most considered national Public Senior High School.',
         imgr: Smabo2,
     },
