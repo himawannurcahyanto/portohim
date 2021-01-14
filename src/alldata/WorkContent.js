@@ -5,14 +5,14 @@ import Ezex from "../images/Ezex.png";
 import Ezex1 from "../images/ezex1.png";
 import Ezex2 from "../images/ezex2.png";
 import bukaka from "../images/bukaka.png";
-import bukaka1 from "../images/bukaka1.png";
+import bukaka4 from "../images/bukaka4.png";
 import bukaka2 from "../images/bukaka2.png";
 import pjb from "../images/PJB.png";
 import pjb1 from "../images/pjb1.png";
 import pjb2 from "../images/pjb2.png";
 import pln from "../images/PLN.png";
 import pln1 from "../images/pln1.png";
-import pln2 from "../images/pln2.png";
+import pln4 from "../images/pln4.jpg";
 import quipper from "../images/Quipper.png";
 import rb from "../images/RB.png";
 import xpresi1 from "../images/xpresi1.jpg"
@@ -45,7 +45,7 @@ export const WorksData = [
         date: 'Sep 2018 - Apr 2019',
         desc: 'Responsible for the maintenance of electricity distribution systems to consumers. Analyze of power outage disturbances in Lenteng Agung area. As an Electrical supervisor in replacement of electrical equipment, and also responsible to Improve the efficiency of distributing electricity in Lenteng Agung area.',
         img1: pln1,
-        img2: pln2,
+        img2: pln4,
     },
     {
         imgMain: bukaka,
@@ -53,7 +53,7 @@ export const WorksData = [
         major:'Junior Engineer',
         date: 'Jan 2018 – Feb 2018',
         desc:'Observe and analyse the working principle and construction of mini-hydro power plant PLTMH Cisono (Garut) and PLTMH Cisanggiri (Pelabuhan Ratu) from its working process, protection, and single line diagram (SLD).',
-        img1: bukaka1,
+        img1: bukaka4,
         img2: bukaka2,
     },
     {
