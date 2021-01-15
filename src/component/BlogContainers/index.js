@@ -12,7 +12,8 @@ import {
     ArticlePart,
     Linked,
     ShareBtn,
-    BlogImageArt
+    BlogImageArt,
+    BlogVideo
 } from "./style";
 
 const ManageOthArtData = ({image, desc , title}) => {
@@ -40,7 +41,8 @@ const BlogContainers = ({match}) => {
         <GlobalContent>
             <BlogApart containe>
                 <BlogDivApart contain>
-                {blogs.map((data) => (
+                {blogs.map((data) => {
+                    return(
                     <>
                     <TitleContent>{data.title}</TitleContent>
                     <BlogWrapped image>
@@ -67,7 +69,8 @@ const BlogContainers = ({match}) => {
                     <ShareBtn>Share 🔗</ShareBtn>
                     </RWebShare>
                     </>
-                ))}
+                    )
+                })}
                 </BlogDivApart>
                 <BlogDivApart>
                     <TitleContent art>Other Article</TitleContent>

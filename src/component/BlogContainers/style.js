@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import {Link} from "react-router-dom";
+import Iframe from 'react-iframe';
 
 export const TitleContent = styled.div`
     font-family: Poppins;
@@ -16,7 +17,7 @@ export const TitleContent = styled.div`
 
 export const BlogWrapped = styled.div`
     text-align: ${props => props.image ? "center" : "left"};
-    margin: ${props => props.image ? "30px 21px 0 15px" : "50px 21px 50px 21px"};
+    margin: ${props => props.image ? "30px auto 0" : "50px 21px 50px 21px"};
     @media screen and (max-width: 740px) {
         text-align: ${props => props.image ? "left" : "left"};
     }
@@ -33,6 +34,15 @@ export const BoxContainer = styled.div`
 
 export const BlogImage = styled.img`
     z-index: 3;
+    width: 400px;
+    max-height: 400px;
+    @media screen and (max-width: 565px) {
+        max-width: 100%;
+        max-height: 300px;
+    }
+`;
+
+export const BlogVideo = styled(Iframe)`
     width: 400px;
     max-height: 400px;
     @media screen and (max-width: 565px) {

@@ -13,9 +13,9 @@ const YouTubeContent = () => {
                 <YTPictPart>
                 <YouTube 
                     src="https://www.youtube.com/embed/4tB945cWbyo"
-                    frameborder="0" 
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                    allowfullscreen  />
+                    frameborder={`0`}
+                    allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen`}
+                    allowfullscreen={true}/>
                 </YTPictPart>
                 <YTProfile>
                     <YTPict src= {HimaYT} />
