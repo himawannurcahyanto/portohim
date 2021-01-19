@@ -20,7 +20,7 @@ const Gallery = () => {
     return(
         <GlobalContent>
             <GalleryTitle>Photo Gallery</GalleryTitle>
-            <GalleryTitle desc>Here's all my gallery!</GalleryTitle>
+            <GalleryTitle desc>The more we grateful, the more we get. This gallery describes my life in one scroll. Let the picture talk. Enjoy!</GalleryTitle>
             <GalleryContainer>
                 {GalleryValueData.map((data, idx) => (
                 <ManageGalleryValueData
