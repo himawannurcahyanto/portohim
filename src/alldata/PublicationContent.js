@@ -1,5 +1,11 @@
 export const PubliData = [
     {
+        year : "2021",
+        papertitle : "Photovoltaic Power Generation Prediction based on Recurrent Neural Network",
+        confname : "KICS WINTER 2021",
+        pubdate : "2021-01-05",
+    },
+    {
         year : "2020",
         papertitle : "Wind Speed Interval Forecasting Under Uncertainty Quantification Pattern Based on Deep Learning Method",
         confname : "KAIC 2020",
