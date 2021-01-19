@@ -31,4 +31,8 @@ export const AchBanData = [
         number: 2,
         name: "Scholarships",
     },
+    {
+        number: 6,
+        name: "Courses",
+    },
 ]
