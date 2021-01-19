@@ -59,8 +59,8 @@ export const OrganizationData = [
         position:"Delegation of Universitas Indonesia",
         date: "January 2017 - December 2017",
         desc:"Electrical Engineering Students Association in Indonesia",
-        img1: kics1,
-        img2: kics2,
+        img1: null,
+        img2: null,
     },
     {
         imgMain: bemftui,
@@ -68,8 +68,8 @@ export const OrganizationData = [
         position:"Pengabdian Masyarakat Division",
         date: "January 2016 - December 2016",
         desc: "Student Executive Council at Faculty of Engineering, University of Indonesia. Take responsibility as a Project Officer of Student Social Action called AKSIOMA FTUI 2016 which collaborates with Gerakan UI Mengajar for donation to Brebes city in Central Java. AKSIOMA was the biggest social event in Faculty of Engineering Universitas Indonesia. AKSIOMA's activity such as Blood donation, quiz, tumbler day, waste recycling, amazing race with orphans, and giving donations to the community",
-        img1: kics1,
-        img2: kics2,
+        img1: null,
+        img2: null,
     },
         {
         imgMain: trui,
