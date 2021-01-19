@@ -41,7 +41,7 @@ export const OrganizationData = [
     },
     {
         imgMain: kics,
-        title: "BEM FTUI 2016",
+        title: "BEM FTUI 2016 (Badan Eksekutif Mahasiswa FTUI)",
         position:"Pengabdian Masyarakat Division",
         date: "January 2016 - December 2016",
         desc:"testestes",
