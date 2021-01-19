@@ -77,7 +77,7 @@ export const OrganizationData = [
         position:"Legged Robot Division",
         date: "January 2016 - December 2016",
         desc:"Robotics Team in University of Indonesia",
-        img1: kics1,
-        img2: kics2,
+        img1: null,
+        img2: null,
     },
 ]
