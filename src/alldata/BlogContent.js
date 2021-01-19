@@ -53,4 +53,25 @@ export const BlogData = [
             par4 : "After the design process, we implemented our research results in Sumber Jaya Village, Banten. We are implementing a solar submersible pump at Sumber Jaya mosque, which is also under construction. We are conducting our project execution with Ir. Chairul Hudaya, ST., M.Eng., PhD . The activity was carried out for 3 days, from the planning, execution and testing of the submersible solar pump. A total of 16 students contributed to this community service program. We hope the solar submersible pump that we have implemented can be useful for irrigation sources for local residents.",
             par5 : "Reference : 1.	Statistik, B.P., Pertumbuhan Penduduk 2010-2017, S. Indonesia, Editor. 2017: Jakarta. 2.	Statistik, B.P., Proporsi Penduduk yang Memiliki Akses Terhadap Pelayanan Air Minum yang Layak dan Berkelanjutan 2015-2017, S. Indonesia, Editor. 2017: Jakarta. 3.	Indonesia, E.d.S.D.M.R., Rencana Usaha Penyediaan Tenaga Llistrik 2017-2026, ESDM, Editor. 2017: Indonesia.",
         },    },
+    {
+        imagee: Coldestwinterkorea,
+        title: "Ski in South Korea",
+        description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla.",
+        content:{
+            par1 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
+            par2 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
+            par3 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
+            par4 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
+        },     },
+    {
+        imagee: Coldestwinterkorea,
+        title: "Life hack in South Korea",
+        description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla.",
+        content:{
+            par1 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
+            par2 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
+            par3 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
+            par4 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
+        },    
+    },
 ]
