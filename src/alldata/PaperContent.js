@@ -5,13 +5,13 @@ import Paper4 from "../images/iceeihima.png";
 
 export const PaperData = [
     {
-        title: "Photovoltaic Power Generation Prediction based on Recurrent Neural Network",
+        title: "Energy Management by Scheduling ESS with Active Demand Response in Low Voltage Grid",
         tipe: "Conference Paper",
         text: "Full-Text Available",
-        date: "January 2021, The Korean Institutes of Communications and Information Sciences (KICS)",
-        author: "Himawan Nurcahyanto, Aji Teguh Prihatno, Yeong Min Jang",
+        date: "November 2020, 2020 International Conference on Information and Communication Technology Convergence (ICTC)",
+        author: "Md Morshed Alam, Md. Habibur Rahman, Himawan Nurcahyanto, Yeong Min Jang",
         papimage: Paper1,
-        link: null
+        link: "https://ieeexplore.ieee.org/document/9289284"
     },
     {
         title: "Wind Speed Interval Forecasting Under Uncertainty Quantification Pattern Based on Deep Learning Method",
