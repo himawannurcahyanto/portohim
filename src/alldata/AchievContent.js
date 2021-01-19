@@ -21,6 +21,6 @@ export const AchBanData = [
     },
     {
         number: 4,
-        name: "Volunteer",
+        name: "Volunteers",
     },
 ]
