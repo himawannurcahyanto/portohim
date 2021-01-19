@@ -7,7 +7,7 @@ import iceeirev2 from "../images/iceeirev2.jpeg";
 import iceeirev3 from "../images/iceeirev3.jpg";
 import compfest from "../images/compfest.png";
 import compfest1tes from "../images/compfest1tes.jpg";
-import compfest2tes from "../images/compfest2tes.jpg";
+import compfest2tes from "../images/compfest2tes.JPG";
 import compfest3tes from "../images/compfest3tes.jpg";
 import jasaraharja from "../images/jasaraharja.png";
 import hackaton1 from "../images/hackaton1.jpg";
