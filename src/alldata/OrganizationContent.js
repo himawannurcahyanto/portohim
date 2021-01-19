@@ -50,7 +50,7 @@ export const OrganizationData = [
     },
         {
         imgMain: kics,
-        title: "TRUI 2016 (Team Robotika Universitasi Indonesia",
+        title: "TRUI 2016 (Team Robotika Universitasi Indonesia)",
         position:"Legged Robot Division",
         date: "January 2016 - December 2016",
         desc:"testestes",
