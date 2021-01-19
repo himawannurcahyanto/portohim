@@ -34,7 +34,7 @@ export const BlogData = [
     {
         imagee: Aksioma,
         title: "AKSIOMA 2016 (Student Social Action)",
-        description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla.",
+        description:"AKSIOMA (Aksi Sosial Mahasiswa) or Student Social Action, is an activity that aims to introduce the world of community service to FTUI new students, increase the value of interaction, togetherness and a sense of care in FTUI new students.",
         content:{
             par1 : "Community service is one part of the Tri Dharma of Higher Education where the role of students is as agents of change. This role will relate directly to the community in their environment and as a tangible manifestation of student care and interaction with the community. Therefore, an activity called AKSIOMA was held for students who want to take their contribution in Faculty of Engineering, University of Indonesia.",
             par2 : "AKSIOMA (Aksi Sosial Mahasiswa) or Student Social Action, is an activity that aims to introduce the world of community service to new students, increase the value of interaction, togetherness and a sense of care in new students. It come up from the problems that exist in Faculty of Engineering, such as lack of interaction between students and non-student residents, the lack of a sense of kinship and care is embedded in students. Environmental problems such as garbage and reforestation will also be observed. AKSIOMA 2016 will make the FTUI environment better, especially for new students regarding community service.",
