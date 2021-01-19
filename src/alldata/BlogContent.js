@@ -12,7 +12,7 @@ export const BlogData = [
     {
         imagee: Kuliahgo,
         title: "Study Abroad to South Korea!",
-        description:"The reason why I choose South Korea as my destination to study",
+        description:"As we know that South Korea is one of Asia’s most upcoming higher education destinations. I will define it as three kind of reason (study point of view, environment point of view, and economic point of view) why we should try South korea as our destination to study. ",
         content:{
             par1 : "As we know that South Korea is one of Asia’s most upcoming higher education destinations. I will define it as three kind of reason (study point of view, environment point of view, and economic point of view) why we should try South korea as our destination to study. ",
             par2 : "In the environment point of view, as an exchange student, you will meet people from all around the world. Korea is extraordinary for its mix of traditional and modern styles. And for me korean students are incredibly welcoming. In the education point of view, the information and communication technology of Korea is considered as one of the best in the world. Most universities in South Korea offer language lessons along with English language studies. There are a lot of universities with a wide range of courses. Lastly in the economic point of view, South Korea is Asia’s fourth-largest economy.It is one of the world’s leading financial centers. South Korea is providing best Scholarships in the world. Studying in South Korea will open up a wide range of employment opportunities. The cost of living in South Korea is affordable. In fact, 11.1 million foreign tourists visited South Korea and this country is one of the most favorable destination.",
