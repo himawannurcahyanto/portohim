@@ -7,7 +7,7 @@ export const OrganizationData = [
         imgMain: kics,
         title: "PERPIKA 2020/2021 (Persatuan Pelajar Indonesia Korea Selatan)",
         position:"External Division",
-        date: "September 2020",
+        date: "September 2020 - September 2021",
         desc:"testestes",
         img1: kics1,
         img2: kics2,
