@@ -55,7 +55,7 @@ export const BlogData = [
         },    },
         {
         imagee: Kersos,
-        title: "KERSOS FTUI (Social Works of Faculty of Engineering Universitas Indonesia",
+        title: "KERSOS FTUI (Social Works of Faculty of Engineering Universitas Indonesia)",
         description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla.",
         content:{
             par1 : "Every year, Kersos (Kerja Sosial) FTUI is committed to being able to contribute to the nation through the creation and growth of villages in remote areas of the country. Kersos 2016 was held on 5 to 11 June 2016. Kersos 2016 conducted in Panyaungan Village, Ciara District, Lebak Regency, Banten. In this village, there are RW 09 and RW 11. In fact, almost 99% of the houses in RW 11 do not have toilets to support their daily needs. So that the villagers have to walk far to the river to get water every day. The condition of the primary schools in this village is still very inadequate to support education for the children of Panyaungan Village.",
