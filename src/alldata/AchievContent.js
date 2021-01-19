@@ -1,14 +1,18 @@
 export const AchBanData = [
     {
-        number: 6,
+        number: 2,
         name: "Awards",
     },
     {
-        number: 5,
+        number: 4,
+        name: "Competition",
+    },
+    {
+        number: 7,
         name: "Publications",
     },
     {
-        number: 5,
+        number: 7,
         name: "Projects",
     },
     {
@@ -22,5 +26,9 @@ export const AchBanData = [
     {
         number: 4,
         name: "Volunteers",
+    },
+    {
+        number: 2,
+        name: "Scholarships",
     },
 ]
