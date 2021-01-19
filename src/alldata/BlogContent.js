@@ -44,7 +44,7 @@ export const BlogData = [
         },    },
     {
         imagee: Solarsubmersible,
-        title: "Clean water supply based on renewable energy in Sumber Jaya Village, Banten District",
+        title: "Clean Water Supply based on Renewable Energy in Sumber Jaya Village, Banten District",
         description:"Implementing a solar submersible pump at Sumber Jaya mosque. We are conducting our project execution with Ir. Chairul Hudaya, ST., M.Eng., PhD . The activity was carried out for 3 days. A total of 16 students contributed to this community service program.",
         content:{
             par1 : "The availability of water is very important since every aspect of life is linked. Access to water and sanitation may become a potential challenge, as water is the most critical survival factor. This problem is coupled with an increase in population growth in the region, so that water demand will increase with the growth of the national population of Indonesia, which increased by ± 1.3 percent annually in 2010-2017 [1]. Meanwhile, Indonesia has the potential for water sources of up to 3.9 trillion m3 every year and only 20% of which can only be maximized [2]. The national electrification ratio of Indonesia is 95.35 percent where the electrification growth ratio is in eastern Indonesia, NTT (59.85 percent) and Papua (61.42 percent) so that the realization and utilization of water is not optimal, especially in areas where the state-owned electricity company has not electrified due to the difficulty of accessing water for irrigation [3]. ",
@@ -77,7 +77,7 @@ export const BlogData = [
         },    },
     {
         imagee: Coldestwinterkorea,
-        title: "Coldest winter in South Korea after last 30 years",
+        title: "Coldest Winter in South Korea after last 30 years",
         description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla.",
         content:{
             par1 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iaculis et lectus tellus mi varius commodo nulla. Suspendisse accumsan, dui morbi vitae augue risus",
