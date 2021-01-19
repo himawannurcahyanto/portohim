@@ -7,6 +7,12 @@ export const PubliData = [
     },
     {
         year : "2020",
+        papertitle : "Energy Management by Scheduling ESS with Active Demand Response in Low Voltage Grid",
+        confname : "ICTC 2020",
+        pubdate : "2020-11-10",
+    },
+    {
+        year : "2020",
         papertitle : "Artificial Intelligence Forecasting for Photovoltaic Performance",
         confname : "KICS SUMMER 2020",
         pubdate : "2020-09-10",
