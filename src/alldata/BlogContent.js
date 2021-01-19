@@ -65,7 +65,7 @@ export const BlogData = [
     {
         imagee: Persiapankekorea,
         title: "Study Abroad Preparation",
-        description:"Document preparation for study abroad",
+        description:"Document preparation for study abroad to South Korea.",
         content:{
             par1 : "Okay di artikel kali ini gue mau jelasin tentang dokumen2 apa aja yang perlu gue persiapkan buat keberangkatan gue ke korea selatan. Umumnya dokumen-dokumen yang perlu di urus diantaranya Application form, Recommendation Letter, Letter of Concern, All certificates, National Identity (You and Both your parents), Birth Certificate (You and Both your parents), Family Card, Graduation Certificate, Transcript, Passport, dan Original Photo.",
             par2 : "Gue dulu ada dua fase ngirim, pertama kirim seluruh dokumen by online dan kedua mengirim seluruh dokumen dengan post ke korea. Pengiriman kedua dilakukan saat semua dokumen sudah di translate dalam Bahasa inggris atau korea, dan juga sudah di cap oleh notaris, kemenkumham, kemenlu, dan kedubes. ",
