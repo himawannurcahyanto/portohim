@@ -35,7 +35,7 @@ export const CompetData = [
     },
     {
         imgMain: compfest,
-        title: "3rd Place Best Participant – Insurance Systems on Vehicle ",
+        title: "3rd Place & Best Participant – Insurance Systems on Vehicle ",
         compname:"Distribution System Supervisor Intern",
         date: "August 2018",
         desc: "Creating startup about insurance systems on a vehicle for Congestion problem in Jakarta. Provides protection to vehicle owners. Creating a transparent insurance system using the Internet of Things (IoT). Help to solving congestion problems on the highway. Changing the peoples mindset to want to use public transportation.",
@@ -45,7 +45,7 @@ export const CompetData = [
     },
     {
         imgMain: jasaraharja,
-        title: "National Finalist Motor Vehicle Tax System",
+        title: "Hackaton National Finalist of Motor Vehicle Tax System",
         compname:"Jasaraharja Hackaton Competition",
         date: "July 2018",
         desc:"Creating a transparent insurance system using the Internet of Things (IoT) to help solve congestion problems on highways. Proposed new Idea called SAJAK (Sistem Asuransi Jalan Kendaraan)",
