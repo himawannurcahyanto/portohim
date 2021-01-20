@@ -20,7 +20,7 @@ export const AchBanData = [
         name: "Patents",
     },
     {
-        number: 8,
+        number: 10,
         name: "Organizations",
     },
     {
