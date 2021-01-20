@@ -25,7 +25,7 @@ export const WorksData = [
         compname: "ENS",
         major:"Renewable Energy Engineer Intern",
         date: "Aug 2020 - Jan 2021",
-        desc:"Delay time shortening algorithm design for shortening the sensing time of weather data. Design of efficient charging/discharging scheduling algorithm by time considering PCS and battery capacity. Variable charging set value prediction design in consideration of weather in the power generation area during charging/discharging scheduling by time. Algorithm design for facility parts life cycle notification considering the warranty period of inverter parts (part replacement cycle notification service)",
+        desc:"Delay time shortening algorithm design for shortening the sensing time of weather data. Design of efficient charging/discharging scheduling algorithm by time considering PCS and battery capacity. Variable charging set value prediction design in consideration of weather in the power generation area during charging/discharging scheduling by time. Algorithm design for facility parts life cycle notification considering the warranty period of inverter parts (part replacement cycle notification service). AI Training for ENS Employee. ",
         img1: Ens4,
         img2: Ens5,
     },
