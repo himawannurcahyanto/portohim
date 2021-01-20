@@ -67,7 +67,7 @@ export const OrganizationData = [
     {
         imgMain: imeftui,
         title: "IME FTUI 2017 (Himpunan Mahasiswa Elektro Universitas Indonesia)",
-        position:"Ketua Himpunan",
+        position:"President (Ketua Himpunan)",
         date: "January 2017 - December 2017",
         desc: "Himawan was the President of the association at IME FTUI (Ikatan Mahasiswa Elektro FTUI). IME FTUI is Electrical Engineering Students Association at University of Indonesia. it is one of the largest and most trusted organizations in the Department of Electrical Engineering. Himawan was the main coordinator of 12 fields and 170 staff. The function of the IME FTUI is to foster and serve the needs of electrical engineering students in developing their potential in the academic and non-academic fields. IME FTUI accommodates the interests of electrical engineering students in various fields including community service, education, finance, scholarships, science and technology, administration, student affairs, arts, sports, research and development, and public relations",
         img1: null,
@@ -85,7 +85,7 @@ export const OrganizationData = [
     {
         imgMain: bemftui,
         title: "BEM FTUI (Badan Eksekutif Mahasiswa FTUI)",
-        position:"Pengabdian Masyarakat Division",
+        position:"Humanitarian Affair Division (Divisi Pengabdian Masyarakat)",
         date: "January 2016 - December 2016",
         desc: "Student Executive Council at Faculty of Engineering, University of Indonesia. Take responsibility as a Project Officer of Student Social Action called AKSIOMA FTUI 2016 which collaborates with Gerakan UI Mengajar for donation to Brebes city in Central Java. AKSIOMA was the biggest social event in Faculty of Engineering Universitas Indonesia. AKSIOMA's activity such as Blood donation, quiz, tumbler day, waste recycling, amazing race with orphans, and giving donations to the community",
         img1: null,
