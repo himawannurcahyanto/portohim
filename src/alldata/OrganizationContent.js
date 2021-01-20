@@ -19,6 +19,15 @@ export const OrganizationData = [
     },
     {
         imgMain: ieee,
+        title: "Electric Power Energy Material Universias Indonesia",
+        position:"Member",
+        date: "January 2019 - December 2019",
+        desc:"testestes",
+        img1: null,
+        img2: null,
+    },
+    {
+        imgMain: ieee,
         title: "IEEE Student Branch Universitas Indonesia",
         position:"Member",
         date: "January 2018 - December 2018",
