@@ -2,6 +2,7 @@ import Paper1 from "../images/kicswinterhima.png";
 import Paper2 from "../images/kaichima.png";
 import Paper3 from "../images/kicssummerhima.png";
 import Paper4 from "../images/iceeihima.png";
+import Paperictc from "../images/paperictc.jpg";
 
 export const PaperData = [
     {
@@ -10,7 +11,7 @@ export const PaperData = [
         text: "Full-Text Available",
         date: "November 2020, 2020 International Conference on Information and Communication Technology Convergence (ICTC)",
         author: "Md Morshed Alam, Md. Habibur Rahman, Himawan Nurcahyanto, Yeong Min Jang",
-        papimage: Paper1,
+        papimage: Paperictc,
         link: "https://ieeexplore.ieee.org/document/9289284"
     },
     {
