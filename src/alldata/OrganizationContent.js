@@ -6,6 +6,8 @@ import ieee from "../images/logoieee.png";
 import fkhmei from "../images/logofkhmei.png";
 import trui from "../images/logotrui.jpg";
 import bemftui from "../images/logobemftui.jpg";
+import utkorea from "../images/utkorea.png";
+import emat from "../images/emat1.png";
 
 export const OrganizationData = [
     {
@@ -18,9 +20,18 @@ export const OrganizationData = [
         img2: null,
     },
     {
-        imgMain: ieee,
+        imgMain: utkorea,
+        title: "UT Korea Selatan",
+        position:"Kemahasiswaan",
+        date: "January 2021 - December 2021",
+        desc:"testestes",
+        img1: null,
+        img2: null,
+    },
+    {
+        imgMain: emat,
         title: "Electric Power Energy Material Universias Indonesia",
-        position:"Member",
+        position:"Research Member",
         date: "January 2019 - December 2019",
         desc:"testestes",
         img1: null,
