@@ -15,7 +15,7 @@ export const OrganizationData = [
         title: "PERPIKA 2020/2021 (Persatuan Pelajar Indonesia Korea Selatan)",
         position:"External Division",
         date: "September 2020 - September 2021",
-        desc:"tTo maintain the unity and integrity of Indonesian students in South Korea, PERPIKA was established as an aspiration forum, gathering, and student development. Himawan is active as an external division administrator who organizes various interactive seminars.",
+        desc:"To maintain the unity and integrity of Indonesian students in South Korea, PERPIKA was established as an aspiration forum, gathering, and student development. Himawan is active as an external division administrator who organizes various interactive seminars.",
         img1: null,
         img2: null,
     },
