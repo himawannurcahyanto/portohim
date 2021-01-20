@@ -4,6 +4,8 @@ import Smabo from "../images/image17.png";
 import Kookmin2 from "../images/KOOKMIN2.png";
 import Ui3 from "../images/ui3.jpeg";
 import Smabo2 from "../images/SMA1.png";
+import kmu1 from "../images/fotodirikookmin.JPG";
+import sma1 from "../images/fotodirisma.jpg";
 
 export const EduData = [
     {
@@ -12,7 +14,7 @@ export const EduData = [
         major:"Master of Engineering - M. Eng, Electrical Engineering ",
         year: "2020 - 2022",
         desc:"Graduate Student at Electrical and Electronic Engineering Department of Kookmin University, South Korea. Focusing on Renewable Energy, Internet of Energy (IoE) and Smart Grid.",
-        imgr: Kookmin2,
+        imgr: kmu1,
     },
     {
         imgl: Ui,
@@ -28,6 +30,6 @@ export const EduData = [
         major:"Science",
         year: "2012 - 2015",
         desc:"Activities and Societies: Graduate with an excellent grade from most favorite public high school in Bogor Indonesia and one of most considered national Public Senior High School.",
-        imgr: Smabo2,
+        imgr: sma1,
     },
 ]
