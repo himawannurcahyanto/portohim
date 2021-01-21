@@ -14,15 +14,15 @@ export const TableStyle = styled.div`
   border: 1px solid #ddd;
   padding: 8px;
 }
+table{margin-left:0; margin-right:0;}
 
  tr:nth-child(even){background-color: #f2f2f2;}
 
  tr:hover {background-color: #ddd;}
-
  th {
   padding-top: 12px;
   padding-bottom: 12px;
-  text-align: left;
+  text-align: center;
   background-color: black;
   color: white;
 }

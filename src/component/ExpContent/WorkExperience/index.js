@@ -6,7 +6,8 @@ import {
     WrapperContent,
     BoxExpContain,
     ExpTitle,
-    ExpWrite
+    ExpWrite,
+    ExpImageParted
 } from "../style";
 import {
     WorkContain,
@@ -24,8 +25,10 @@ const ManageWorkData = ({ imgMain,compname, major,date,desc,img1, img2 }) => {
                     <ExpWrite>{major}</ExpWrite>
                     <ExpWrite year>{date}</ExpWrite>
                     <ExpWrite desc>{desc}</ExpWrite>
+                    <ExpImageParted>
                     <AddedPictWork src = {img1} />
                     <AddedPictWork src = {img2} />
+                    </ExpImageParted>
                 </WorkContain>
             </BoxExpContain>
         </WrapperContent>

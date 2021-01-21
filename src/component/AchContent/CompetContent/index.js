@@ -6,7 +6,9 @@ import {
     WrapperContent,
     BoxExpContain,
     ExpTitle,
-    ExpWrite} from "../../ExpContent/style";
+    ExpWrite,
+    ExpImageParted
+} from "../../ExpContent/style";
 import {
     WorkContain,
     CompPict,
@@ -23,8 +25,10 @@ const ManageCompetData = ({ imgMain,title, compname,date,desc,img1, img2 }) => {
                     <ExpWrite>{compname}</ExpWrite>
                     <ExpWrite year>{date}</ExpWrite>
                     <ExpWrite desc>{desc}</ExpWrite>
+                    <ExpImageParted>
                     <AddedPictWork src = {img1} />
                     <AddedPictWork src = {img2} />
+                    </ExpImageParted>
                 </WorkContain>
             </BoxExpContain>
         </WrapperContent>

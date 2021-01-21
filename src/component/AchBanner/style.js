@@ -6,6 +6,7 @@ export const ItemBoxGrid = styled.div`
     grid-gap: 40px;
     padding: 12px;
     width: 65%;
+    margin: 30px 0 0 0;
     @media screen and (max-width: 1014px) {
         grid-template-columns: auto auto;
         margin: 0 auto;

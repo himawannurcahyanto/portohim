@@ -16,8 +16,9 @@ export const TitleContent = styled.div`
 `;
 
 export const BlogWrapped = styled.div`
-    text-align: ${props => props.image ? "center" : "left"};
+    text-align: ${props => props.image ? "center" : "justify"};
     margin: ${props => props.image ? "30px auto 0" : "50px 21px 50px 21px"};
+    text-indent: ${props => props.image ? "none" : "50px"};
     @media screen and (max-width: 740px) {
         text-align: ${props => props.image ? "left" : "left"};
     }
@@ -25,7 +26,7 @@ export const BlogWrapped = styled.div`
 export const BoxContainer = styled.div`
     font-weight: normal;
     font-size: 14px;
-    line-height: 20px;
+    line-height: 24px;
     @media screen and (max-width: 740px) {
         line-height: 15px;
         font-size: 11px;

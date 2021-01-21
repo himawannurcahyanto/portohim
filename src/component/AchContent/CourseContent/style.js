@@ -20,7 +20,7 @@ width: 100%;
   background-color: black;
   color: white;
 }
-td{text-align:left;}
+td{text-align:center;}
 `;
 
 export const PubTable = styled.div`

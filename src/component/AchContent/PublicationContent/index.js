@@ -34,15 +34,16 @@ const PublicationContent = () => {
                             </tr>
                         </thead>
                         <tbody>
-                            { PubliData.map((data,idx) => (
-                                <ManagePubliTableData
-                                    key={idx}
-                                    data1={data.year}
-                                    data2={data.papertitle}
-                                    data3={data.confname}
-                                    data4={data.pubdate}
-                                />
-                            ))}
+                            { PubliData.map((data,idx) => {
+                                return(
+                                    <tr key={idx}>
+                                        <td>{data.year}</td>
+                                        <td>{data.papertitle}</td>
+                                        <td>{data.confname}</td>
+                                        <td>{data.pubdate}</td>
+                                    </tr>
+                                )
+                            })}
                         </tbody>
                     </table>
                 </TableStyle>

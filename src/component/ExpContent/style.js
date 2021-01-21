@@ -30,7 +30,7 @@ export const WrapperContent = styled.div`
 
 export const BoxExpContain = styled.div`
     display: flex;
-    margin: 24px 17px 44px 27px;
+    margin: 24px 17px 24px 27px;
     @media screen and (max-width: 642px) {
         display: block;
     }
@@ -41,15 +41,20 @@ export const ExpTitle = styled.h6`
     font-size: 20px;
     line-height: 30px;
     padding: 0 5px;
-    
 `;
 
-export const ExpWrite = styled.p`
+export const ExpWrite = styled.div`
     font-size: ${(props) => (props.desc ? "14px" : "16px")};
     line-height: ${(props) => (props.desc ? "21px" : "17px")};
     color: ${(props) => (props.year ? "#5A5A5A" : "#333333")};
     padding: 2px 5px;
+    text-align: justify;
+    margin-bottom: 10px;
     @media screen and (max-width: 642px) {
         padding: 5px;
+        text-align: center;
     }
+`;
+export const ExpImageParted = styled.div`
+    margin-top: 20px;
 `;
