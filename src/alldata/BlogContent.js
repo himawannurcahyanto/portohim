@@ -45,7 +45,9 @@ export const BlogData = [
         image:{
             par1: null,
         },
-        videos: false,
+        videos: {
+            par1: false,
+        },
         video:{
             par1: null,
         },
@@ -64,7 +66,9 @@ export const BlogData = [
         image:{
             par1: null,
         },
-        videos: false,
+        videos: {
+            par1: false,
+        },
         video:{
             par1: null,
         },
@@ -83,7 +87,9 @@ export const BlogData = [
         image:{
             par1: null,
         },
-        videos: false,
+        videos: {
+            par1: false,
+        },
         video:{
             par1: null,
         },
@@ -100,7 +106,9 @@ export const BlogData = [
         image:{
             par1: null,
         },
-        videos: false,
+        videos: {
+            par1: false,
+        },
         video:{
             par1: null,
         },
@@ -121,7 +129,9 @@ export const BlogData = [
         image:{
             par1: null,
         },
-        videos: false,
+        videos: {
+            par1: false,
+        },
         video:{
             par1: null,
         },
@@ -144,7 +154,9 @@ export const BlogData = [
         image:{
             par1: null,
         },
-        videos: false,
+        videos: {
+            par1: false,
+        },
         video:{
             par1: null,
         },
