@@ -13,7 +13,10 @@ import {
     Linked,
     ShareBtn,
     BlogImageArt,
-    BlogVideo
+    BlogVideo,
+    BlogDiv,
+    BlogImageContent,
+    BlogVidDiv
 } from "./style";
 
 const ManageOthArtData = ({image, desc , title}) => {
@@ -49,16 +52,76 @@ const BlogContainers = ({match}) => {
                         <BlogImage src = {data.imagee} />
                     </BlogWrapped>
                     <BlogWrapped>
-                        <BoxContainer>{data.content.par1}</BoxContainer> <br/>
-                        <BoxContainer>{data.content.par2}</BoxContainer> <br/>
-                        <BoxContainer>{data.content.par3}</BoxContainer> <br/>
-                        <BoxContainer>{data.content.par4}</BoxContainer> <br/>
-                        <BoxContainer>{data.content.par5}</BoxContainer> <br/>
-                        <BoxContainer>{data.content.par6}</BoxContainer> <br/>
-                        <BoxContainer>{data.content.par7}</BoxContainer> <br/>
-                        <BoxContainer>{data.content.par8}</BoxContainer> <br/>
-                        <BoxContainer>{data.content.par9}</BoxContainer> <br/>
+                        <BoxContainer>{data.content.par1}</BoxContainer>
+                            <BlogDiv>
+                                <BlogImageContent src = {data.image.par1} />
+                            </BlogDiv>
+                            <BlogVidDiv videos={data.videos.par1}>
+                                <BlogVideo url={data.video.par1}/>
+                            </BlogVidDiv>
+                        <BoxContainer>{data.content.par2}</BoxContainer>
+                        <BlogDiv>
+                                <BlogImageContent src = {data.image.par2} />
+                            </BlogDiv>
+                            <BlogVidDiv videos={data.videos.par2}>
+                                <BlogVideo url={data.video.par2}/>
+                            </BlogVidDiv>
+                        <BoxContainer>{data.content.par3}</BoxContainer>
+                            <BlogDiv>
+                                <BlogImageContent src = {data.image.par3} />
+                            </BlogDiv>
+                            <BlogVidDiv videos={data.videos.par3}>
+                                <BlogVideo url={data.video.par3}/>
+                            </BlogVidDiv>
+                        <BoxContainer>{data.content.par4}</BoxContainer>
+                            <BlogDiv>
+                                <BlogImageContent src = {data.image.par4} />
+                            </BlogDiv>
+                            <BlogVidDiv videos={data.videos.par4}>
+                                <BlogVideo url={data.video.par4}/>
+                            </BlogVidDiv>
+                        <BoxContainer>{data.content.par5}</BoxContainer>
+                            <BlogDiv>
+                                <BlogImageContent src = {data.image.par5} />
+                            </BlogDiv>
+                            <BlogVidDiv videos={data.videos.par5}>
+                                <BlogVideo url={data.video.par5}/>
+                            </BlogVidDiv>
+                        <BoxContainer>{data.content.par6}</BoxContainer>
+                            <BlogDiv>
+                                <BlogImageContent src = {data.image.par6} />
+                            </BlogDiv>
+                            <BlogVidDiv videos={data.videos.par6}>
+                                <BlogVideo url={data.video.par6}/>
+                            </BlogVidDiv>
+                        <BoxContainer>{data.content.par7}</BoxContainer>
+                            <BlogDiv>
+                                <BlogImageContent src = {data.image.par7} />
+                            </BlogDiv>
+                            <BlogVidDiv videos={data.videos.par7}>
+                                <BlogVideo url={data.video.par7}/>
+                            </BlogVidDiv>
+                        <BoxContainer>{data.content.par8}</BoxContainer>
+                            <BlogDiv>
+                                <BlogImageContent src = {data.image.par8} />
+                            </BlogDiv>
+                            <BlogVidDiv videos={data.videos.par8}>
+                                <BlogVideo url={data.video.par8}/>
+                            </BlogVidDiv>
+                        <BoxContainer>{data.content.par9}</BoxContainer>
+                            <BlogDiv>
+                                <BlogImageContent src = {data.image.par9} />
+                            </BlogDiv>
+                            <BlogVidDiv videos={data.videos.par9}>
+                                <BlogVideo url={data.video.par9}/>
+                            </BlogVidDiv>
                         <BoxContainer>{data.content.par10}</BoxContainer>
+                            <BlogDiv>
+                                <BlogImageContent src = {data.image.par10} />
+                            </BlogDiv>
+                            <BlogVidDiv videos={data.videos.par10}>
+                                <BlogVideo url={data.video.par10}/>
+                            </BlogVidDiv>
                     </BlogWrapped>
                     <h4>Share To</h4>
                     <RWebShare

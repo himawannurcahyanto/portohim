@@ -23,6 +23,15 @@ export const BlogData = [
             par5 : "Here is kind of Researcher Scholarship that I have got from my university: Living stipend: 700,000 – 1,000,000 KRW/month (Can negotiate with Professor depending on campus) Tuition fee, dormitory fee: paid by lab. Other benefits: Attending International Conference (ICTC.org, ICUFN.org, ICAIIC.org, ICOIN.org, etc). Attending Standard meeting (IEEE 802.15 standard meeting and ISO TC 204 standard meeting). Attending International Seminar and workshops.",
             par6 : "Documents that should be prepared : Application form, Recommendation Letter, Letter of Concern, All certificates, National Identity (You and Both your parents), Birth Certificate (You and Both your parents), Family Card, Graduation Certificate, Transcript, Passport, and Original Photo. I will explain more detail about documents preparation to south korea in my next article . thanks for reading!",
         },
+        image:{
+            par1: Kuliahgo,
+        },
+        videos: {
+            par1: true,
+        },
+        video:{
+            par1: "https://www.youtube.com/embed/4tB945cWbyo",
+        },
     },
     {
         imagee: Bogorsocialaction,
@@ -32,7 +41,15 @@ export const BlogData = [
             par1 : "Ramadan is the most sacred month of the year. It is the 9th month of Islamic calendar. Fasting is the fourth of the Five foundation of Islam during Ramadan. The foundation of how Muslims practice their religion is established by these foundations, or duties. According to the Islam Guide, the pillars of Islam are Shahada (trust sentences in the religion of Islam), Salat (prayer facing the direction of Mecca five times a day), Zakat (supporting the needy), Sawm (fast during Ramadan), and Hajj (pilgrimage to Mecca at least once during one's lifetime). Muslims are preparing to wake up early and eat a light meal, known as sahur, before dawn. Sahur is usually consumed in preparation for the fajr, or morning prayer, about half an hour before dawn. After the sun sets at the end of each day, muslims normally breaks his or her fast with water and dates, followed by prayers and then a meal called iftar.",
             par2 : "Muslims usually held iftar together every Ramadhan. This activity also one of the tools for us to have a great interaction and charity time. Through that kind of activity bogor social action was inspired to have a sharing and charity time in the iftar time.  Bogor social action was formed in 2014. Bogor Social Action is a charity community for distributing aid and donations. Every year it holds social service activities, sharing session, charity, and break fasting together with orphaned foundations. This activity is in collaboration with charity stakeholder and college students as agents of change. ",
             par3 : "So far we have done several charity to Panti Asuhan Putri Dan Balita Muhammadiyah Darushsholihat on 2014, Dormitory Orphans & Dhu'afa Sukasari on 2015, Panti asuhan Mizan Amanah Asrama Yatim dan Dhuafa Panduraya 2016, Yayasan Akbar Al-qi Foundation on 2017, Panti Yatim Indonesia (PYI Yatim dan Zakat) on 2018, Mizan Amanah Meranti Bogor on 2019. We are very open to those who want to make donations to be distributed to orphaned friends in need. We hope this community can be grow with the charity and giving tons of benefit to the lots of people.",
-        },    },
+        },
+        image:{
+            par1: null,
+        },
+        videos: false,
+        video:{
+            par1: null,
+        },
+    },
     {
         imagee: Aksioma,
         title: "AKSIOMA 2016 (Student Social Action)",
@@ -43,7 +60,15 @@ export const BlogData = [
             par3 : "AKSIOMA's unique ideas this year (2016) are Care Stand, Amazing Race, and Tandur. The value of caring to the Master school children will also be instilled, as well as a sense of sharing with the holding of Care Stands and Charity Concerts. The purpose of this activity is to create new students from the FTUI class of 2016 in carrying out a form of community service, instilling and increasing a sense of social care for new students of the FTUI class of 2016, fostering a solid sense of one technique, especially for fellow new students of the FTUI class of 2016. Increases the interaction of new students with the Faculty of Engineering community, and provides benefits and togetherness to the community directly and concretely.",
             par4 : "In addition, the target of activities is also for the community outside of the faculty of engineering. Children from the Master school will be participate in enlivening the AKSIOMA 2016 closing series. The Master School is a free school under the auspices of the Yayasan Bina Insan Mandiri (YABIM), for poor children around Depok terminal. The MasTer School (acronym for MASjid TERminal) began to be built from the corner of the building where the worship place was. Some of its operations are supported by educational care institutions, community participation, the government, and independent business units. The teachers of the Master School are volunteers. The full excitement of this activity can be watched in the video below.",
             par5 : "Video : https://www.youtube.com/watch?v=B1-ulDidlYA",
-        },    },
+        },   
+        image:{
+            par1: null,
+        },
+        videos: false,
+        video:{
+            par1: null,
+        },
+    },
     {
         imagee: Solarsubmersible,
         title: "Clean Water Supply based on Renewable Energy in Rural Area",
@@ -54,8 +79,16 @@ export const BlogData = [
             par3 : "Low electrification and limited provision of water access are constrained in inland areas or where infiltration is far from the object where it is irrigated. Various attempts have been made to solve this problem, one of the alternative solutions that we propose is a solar powered pump integrated system with the DC concept. We are investigating the optimal system for power linkage efficiency in solar powered pumps before and after the installation of solar panels.",
             par4 : "After the design process, we implemented our research results in Sumber Jaya Village, Banten. We are implementing a solar submersible pump at Sumber Jaya mosque, which is also under construction. We are conducting our project execution with Ir. Chairul Hudaya, ST., M.Eng., PhD . The activity was carried out for 3 days, from the planning, execution and testing of the submersible solar pump. A total of 16 students contributed to this community service program. We hope the solar submersible pump that we have implemented can be useful for irrigation sources for local residents.",
             par5 : "Reference : 1.	Statistik, B.P., Pertumbuhan Penduduk 2010-2017, S. Indonesia, Editor. 2017: Jakarta. 2.	Statistik, B.P., Proporsi Penduduk yang Memiliki Akses Terhadap Pelayanan Air Minum yang Layak dan Berkelanjutan 2015-2017, S. Indonesia, Editor. 2017: Jakarta. 3.	Indonesia, E.d.S.D.M.R., Rencana Usaha Penyediaan Tenaga Llistrik 2017-2026, ESDM, Editor. 2017: Indonesia.",
-        },    },
-        {
+        },   
+        image:{
+            par1: null,
+        },
+        videos: false,
+        video:{
+            par1: null,
+        },
+    },
+    {
         imagee: Kersos,
         title: "KERSOS FTUI (Social Works of Faculty of Engineering Universitas Indonesia)",
         description:"Kersos (Kerja Sosial) FTUI is committed to being able to contribute to the nation through the creation and growth of villages in remote areas of the country. Kersos 2016 conducted in Panyaungan Village, Ciara District, Lebak Regency, Banten",
@@ -63,7 +96,15 @@ export const BlogData = [
             par1 : "Every year, Kersos (Kerja Sosial) FTUI is committed to being able to contribute to the nation through the creation and growth of villages in remote areas of the country. Kersos 2016 was held on 5 to 11 June 2016. Kersos 2016 conducted in Panyaungan Village, Ciara District, Lebak Regency, Banten. In this village, there are RW 09 and RW 11. In fact, almost 99% of the houses in RW 11 do not have toilets to support their daily needs. So that the villagers have to walk far to the river to get water every day. The condition of the primary schools in this village is still very inadequate to support education for the children of Panyaungan Village.",
             par2 : "In Panyaungan village, I stayed at one of the residents' houses with four of my friends as students from the University of Indonesia. We stayed along that week because every afternoon we will have lots of implementation such as making toilets, free medical treatment, teaching, and playing with the children in the village. At that time, my group got the task of making the toilets, I took part in mixing the cement, and we also did voluntary work to clean the village environment with the residents. What a wonderful experience to serve the community through our real contributions as an engineers. In accordance with the tagline of the Kersos 2016, we must make real movements to build this country.",
             par3 : "#BergerakNyataMembangunBangsa",
-        },    },
+        },    
+        image:{
+            par1: null,
+        },
+        videos: false,
+        video:{
+            par1: null,
+        },
+    },
     {
         imagee: Persiapankekorea,
         title: "Study Abroad Preparation",
@@ -76,8 +117,16 @@ export const BlogData = [
             par5 : "Setelah selesai dari kemenlu, step terakhirnya temen-temen perlu dapet approval terakhir dari kedubes korea. Di hari yang sama dengan pengurusan cap ke kemenlu, gue langsung naik ojek dari kantor kemenlu ke kemenkumham yang ada di gatsu Jakarta. Di kantor kedubes korea prosesnya cepet banget, temen-temen langsung diarahin buat mengurus dokumen-dokumennya sama satpamnya, dan nanti temen-temen diminta untuk bayar sesuai dengan dokumen temen-temen. ",
             par6 : "Selesai sudah proses legalisir dokumen-dokumen gue, tahap terakhir gue harus mengirim dokumen-dokumen tersebut ke korea, tepatnya ke professor di lab gue. Gue kirim dokumen-dokumen gue pake fedex yang di pinggir tol lingkar luar itu kalo temen-temen tau. Dan memakan waktu sekitar 1 minggu karena gue pake yang regular. Dan finally dokumen gue sudah sampai ke korea selatan dengan aman, dan alhamdulillah semua aplikasi gue sudah sesuai dengan kriteria. ",
             par7 : "Sekitar satu bulan setelahnya, gue dapet Letter of Acceptance yang menandakan bahwa gue diterima di kampus tujuan gue di korea selatan. Nah dokumen itu coba temen-temen langsung fotocopy dan yang aslinya di simpen sama temen-temen. Karena dokumen itu bakal dipake buat ngurus visa pelajar temen-temen buat keberangkatan. Okay sekian cerita dari gue. Semangat terus temen-temen buat ngurus dokumen-dokumen study abroad nya. Siapkan waktu sekitar 2 minggu aja buat mengurus dokumen-dokumen ini. Sukses selalu buat kuliah keluar negerinya, semoga bisa membangun Indonesia lebih baik lagi. Terimakasih udah baca sampe akhir. Good Luck!",
-        },    },
-        {
+        },    
+        image:{
+            par1: null,
+        },
+        videos: false,
+        video:{
+            par1: null,
+        },
+    },
+    {
         imagee: bestpapericeei,
         title: "Best Paper Winner on ICEEI 2018",
         description:"Joining The International Conference and Get Best Paper Winner Award, with a research title is an Analysis of Power Transformers Lifetime Using Health Index Transformer Method Based on Artificial Neural Networks Modeling.",
@@ -91,5 +140,13 @@ export const BlogData = [
             par7 : "Reference :",
             par8 : "Jahromi, A., et al., An approach to power transformer asset management using health index. IEEE Electrical Insulation Magazine, 2009. 25(2): p. 20-34.",
             par9 : "H. Nurcahyanto, J. M. Nainggolan, I. M. Ardita and C. Hudaya, Analysis of Power Transformer's Lifetime Using Health Index Transformer Method Based on Artificial Neural Network Modeling, 2019 International Conference on Electrical Engineering and Informatics (ICEEI), Bandung, Indonesia, 2019, pp. 574-579, doi: 10.1109/ICEEI47359.2019.8988870.",
-        },    },
+        },    
+        image:{
+            par1: null,
+        },
+        videos: false,
+        video:{
+            par1: null,
+        },
+    },
 ]

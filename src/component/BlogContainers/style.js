@@ -17,10 +17,10 @@ export const TitleContent = styled.div`
 
 export const BlogWrapped = styled.div`
     text-align: ${props => props.image ? "center" : "justify"};
-    margin: ${props => props.image ? "30px auto 0" : "50px 21px 50px 21px"};
+    margin: ${props => props.image ? "30px auto 0" : "50px 21px 21px"};
     text-indent: ${props => props.image ? "none" : "50px"};
     @media screen and (max-width: 740px) {
-        text-align: ${props => props.image ? "left" : "left"};
+        text-align: ${props => props.image ? "center" : "justify"};
     }
 `;
 export const BoxContainer = styled.div`
@@ -38,17 +38,20 @@ export const BlogImage = styled.img`
     width: 400px;
     max-height: 400px;
     @media screen and (max-width: 565px) {
-        max-width: 100%;
-        max-height: 300px;
+        max-width: 250px;
+        max-height: 250px;
     }
 `;
 
 export const BlogVideo = styled(Iframe)`
-    width: 400px;
-    max-height: 400px;
+    min-width: 400px;
+    min-height: 231px;
+    border: none;
+    outline:none;
+    margin: 0 auto;
     @media screen and (max-width: 565px) {
-        max-width: 100%;
-        max-height: 300px;
+        max-width: 250px;
+        height: 200px;
     }
 `;
 
@@ -117,5 +120,29 @@ export const ShareBtn = styled.button`
     &:hover {
         transition:0.2s ease-in-out;
         transform:scale(1.1);
+    }
+`;
+
+export const BlogDiv = styled.div`
+text-align: center !important;
+margin: 10px auto;
+text-indent: 0 !important;
+height: fit-content !important;
+`;
+
+export const BlogVidDiv = styled.div`
+text-align: center !important;
+margin: 10px auto;
+text-indent: 0 !important;
+height: fit-content !important;
+display: ${({videos}) => (videos ? "block" : "none")};
+`;
+
+export const BlogImageContent = styled.img`
+    width: 400px;
+    max-height: 400px;
+    @media screen and (max-width: 565px) {
+        max-width: 250px;
+        max-height: 250px;
     }
 `;
