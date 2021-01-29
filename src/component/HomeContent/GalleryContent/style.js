@@ -5,8 +5,10 @@ export const GalleryContainer = styled.div`
     display: grid;
     grid-template-columns: auto auto auto auto;
     grid-template-rows: auto auto;
-    grid-gap: 20px;
+    grid-row-gap: 20px;
     overflow-x:hidden;
+    grid-column-gap: 60px;
+    justify-content: center;
     @media screen and (max-width: 1015px) {
         grid-template-columns: auto auto auto;
         grid-template-rows: auto auto;
@@ -16,7 +18,8 @@ export const GalleryContainer = styled.div`
         text-align:center;
         grid-template-columns: 40% 30%;
         grid-template-rows: auto;
-        grid-gap: 15px;s
+        grid-gap: 15px;
+        justify-content: left;
         width:100%;
     }
 `;

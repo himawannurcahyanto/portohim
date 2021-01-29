@@ -20,3 +20,12 @@ export const Viewedin = styled(LinkR)`
     color: #5A5A5A;
     display: ${props => props.others ? "none" : "inline-block"};
 `;
+
+export const BannerContainer = styled.div`
+  color: #333;
+  height: 340px;
+  background-image: url(${(props) => props.img});
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+`;
