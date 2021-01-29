@@ -1,8 +1,10 @@
 
 export const BannerSliderContent = [
-    {source: "https://drive.google.com/uc?id=10FfgWiIXdDSv9zQ5ABQ1znFODVC87xbR"},
-    {source: "https://drive.google.com/uc?id=1HlqyCObisV0CM57_-QvBhMV7rO_Rbd-S"},
-    {source: "https://drive.google.com/uc?id=1yupEgZUiH5OzU_ZAs_5WVbS2GCzmm1b3"},
-    {source: "https://drive.google.com/uc?id=1yupEgZUiH5OzU_ZAs_5WVbS2GCzmm1b3"},
+    {source: "https://drive.google.com/uc?id=1ZCKbArzOMOSQaqRhF_P439VRJ_8S2czB"},
+    {source: "https://drive.google.com/uc?id=1qRxf5T5atXfXe6g1S-DglHLl_7GMdJlp"},
+    {source: "https://drive.google.com/uc?id=1CuxCjhVDU81EDyBpBygenvjJq85yeHAx"},
+    {source: "https://drive.google.com/uc?id=1M4I0uw1nltgHKAjuRkNrRELtSX5WW9R-"},
+    {source: "https://drive.google.com/uc?id=10A9s7wqSPKkWrvNIF8-Xvv8V5-iHt99J"},
+    {source: "https://drive.google.com/uc?id=1hZt9wmDYrtjwBUBiNYyj4M2otc5AyoVx"},
 
 ]
