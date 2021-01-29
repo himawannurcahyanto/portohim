@@ -43,15 +43,20 @@ export const BlogImage = styled.img`
     }
 `;
 
-export const BlogVideo = styled(Iframe)`
+export const BlogVideo = styled.iframe`
     min-width: 400px;
     min-height: 231px;
     border: none;
     outline:none;
     margin: 0 auto;
     @media screen and (max-width: 565px) {
-        max-width: 250px;
-        height: 200px;
+        min-width: 250px;
+        min-height: 200px;
+    }
+    @media screen and (max-width: 509px) {
+        min-width: 200px;
+        min-height: 150px;
+        margin-left:-20px;
     }
 `;
 

@@ -21,6 +21,8 @@ export const YTProfile = styled.div`
 export const YouTube = styled.iframe`
     width: 400px;
     height: 231px;
+    border: none;
+    outline:none;
     @media screen and (max-width: 1015px) {
         width: 100%;
         height: 200px;

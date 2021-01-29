@@ -57,70 +57,90 @@ const BlogContainers = ({match}) => {
                                 <BlogImageContent src = {data.image.par1} />
                             </BlogDiv>
                             <BlogVidDiv videos={data.videos.par1}>
-                                <BlogVideo url={data.video.par1}/>
+                                <BlogVideo src={data.video.par1} frameborder={`0`}
+                                allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen`}
+                                allowfullscreen={true}/>
                             </BlogVidDiv>
                         <BoxContainer>{data.content.par2}</BoxContainer>
                         <BlogDiv>
                                 <BlogImageContent src = {data.image.par2} />
                             </BlogDiv>
                             <BlogVidDiv videos={data.videos.par2}>
-                                <BlogVideo url={data.video.par2}/>
+                                <BlogVideo src={data.video.par2} frameborder={`0`}
+                                allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen`}
+                                allowfullscreen={true}/>
                             </BlogVidDiv>
                         <BoxContainer>{data.content.par3}</BoxContainer>
                             <BlogDiv>
                                 <BlogImageContent src = {data.image.par3} />
                             </BlogDiv>
                             <BlogVidDiv videos={data.videos.par3}>
-                                <BlogVideo url={data.video.par3}/>
+                                <BlogVideo src={data.video.par3} frameborder={`0`}
+                                allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen`}
+                                allowfullscreen={true}/>
                             </BlogVidDiv>
                         <BoxContainer>{data.content.par4}</BoxContainer>
                             <BlogDiv>
                                 <BlogImageContent src = {data.image.par4} />
                             </BlogDiv>
                             <BlogVidDiv videos={data.videos.par4}>
-                                <BlogVideo url={data.video.par4}/>
+                                <BlogVideo src={data.video.par4} frameborder={`0`}
+                                allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen`}
+                                allowfullscreen={true}/>
                             </BlogVidDiv>
                         <BoxContainer>{data.content.par5}</BoxContainer>
                             <BlogDiv>
                                 <BlogImageContent src = {data.image.par5} />
                             </BlogDiv>
                             <BlogVidDiv videos={data.videos.par5}>
-                                <BlogVideo url={data.video.par5}/>
+                                <BlogVideo src={data.video.par5} frameborder={`0`}
+                                allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen`}
+                                allowfullscreen={true}/>
                             </BlogVidDiv>
                         <BoxContainer>{data.content.par6}</BoxContainer>
                             <BlogDiv>
                                 <BlogImageContent src = {data.image.par6} />
                             </BlogDiv>
                             <BlogVidDiv videos={data.videos.par6}>
-                                <BlogVideo url={data.video.par6}/>
+                                <BlogVideo src={data.video.par6} frameborder={`0`}
+                                allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen`}
+                                allowfullscreen={true}/>
                             </BlogVidDiv>
                         <BoxContainer>{data.content.par7}</BoxContainer>
                             <BlogDiv>
                                 <BlogImageContent src = {data.image.par7} />
                             </BlogDiv>
                             <BlogVidDiv videos={data.videos.par7}>
-                                <BlogVideo url={data.video.par7}/>
+                                <BlogVideo src={data.video.par7} frameborder={`0`}
+                                allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen`}
+                                allowfullscreen={true}/>
                             </BlogVidDiv>
                         <BoxContainer>{data.content.par8}</BoxContainer>
                             <BlogDiv>
                                 <BlogImageContent src = {data.image.par8} />
                             </BlogDiv>
                             <BlogVidDiv videos={data.videos.par8}>
-                                <BlogVideo url={data.video.par8}/>
+                                <BlogVideo src={data.video.par8} frameborder={`0`}
+                                allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen`}
+                                allowfullscreen={true}/>
                             </BlogVidDiv>
                         <BoxContainer>{data.content.par9}</BoxContainer>
                             <BlogDiv>
                                 <BlogImageContent src = {data.image.par9} />
                             </BlogDiv>
                             <BlogVidDiv videos={data.videos.par9}>
-                                <BlogVideo url={data.video.par9}/>
+                                <BlogVideo src={data.video.par9} frameborder={`0`}
+                                allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen`}
+                                allowfullscreen={true}/>
                             </BlogVidDiv>
                         <BoxContainer>{data.content.par10}</BoxContainer>
                             <BlogDiv>
                                 <BlogImageContent src = {data.image.par10} />
                             </BlogDiv>
                             <BlogVidDiv videos={data.videos.par10}>
-                                <BlogVideo url={data.video.par10}/>
+                                <BlogVideo src={data.video.par10} frameborder={`0`}
+                                allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen`}
+                                allowfullscreen={true}/>
                             </BlogVidDiv>
                     </BlogWrapped>
                     <h4>Share To</h4>
