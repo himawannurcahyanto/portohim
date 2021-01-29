@@ -30,6 +30,7 @@ export const IntroPart = styled.div`
     margin-top: 50px;
     @media screen and (max-width: 1015px) {
         padding: 5px;
+        text-align: center;
     }
 `;
 
