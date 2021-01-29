@@ -30,7 +30,7 @@ export const BlogData = [
             par6: true,
         },
         video:{
-            par6: "https://www.youtube.com/embed/RSdmX8z9n5k&t=1s",
+            par6: "https://www.youtube.com/embed/RSdmX8z9n5k",
         },
     },
     {
