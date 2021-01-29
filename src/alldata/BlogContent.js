@@ -24,13 +24,13 @@ export const BlogData = [
             par6 : "Documents that should be prepared : Application form, Recommendation Letter, Letter of Concern, All certificates, National Identity (You and Both your parents), Birth Certificate (You and Both your parents), Family Card, Graduation Certificate, Transcript, Passport, and Original Photo. I will explain more detail about documents preparation to south korea in my next article . thanks for reading!",
         },
         image:{
-            par1: Kuliahgo,
+            par3: Kuliahgo,
         },
         videos: {
-            par1: true,
+            par6: true,
         },
         video:{
-            par1: "https://www.youtube.com/embed/4tB945cWbyo",
+            par6: "https://www.youtube.com/embed/RSdmX8z9n5k&t=1s",
         },
     },
     {
