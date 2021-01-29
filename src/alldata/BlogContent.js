@@ -67,10 +67,10 @@ export const BlogData = [
             par1: null,
         },
         videos: {
-            par1: false,
+            par1: true,
         },
         video:{
-            par1: null,
+            par1: "https://www.youtube.com/watch?v=B1-ulDidlYA",
         },
     },
     {
