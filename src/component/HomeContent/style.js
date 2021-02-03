@@ -1,5 +1,7 @@
 import styled from "styled-components";
 import { Link as LinkR } from "react-router-dom";
+import AwesomeSlider from 'react-awesome-slider';
+import withAutoplay from 'react-awesome-slider/dist/autoplay';
 
 export const TitleHomeContent = styled.div`
     width: ${props => props.recent ? "50%" : "100%"};
@@ -23,9 +25,63 @@ export const Viewedin = styled(LinkR)`
 
 export const BannerContainer = styled.div`
   color: #333;
-  height: 340px;
+  display: block;
+  height: 480px;
   background-image: url(${(props) => props.img});
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  @media screen and (max-width: 801px) {
+    background-image: url(${(props) => props.src});
+  }
+`;
+export const SmallBannerContainer = styled.div`
+  display: none;
+  @media screen and (max-width: 801px) {
+    display: block;
+    margin-top: 80px;
+    z-index: 6;
+    top: 0;
+    position: absolute;
+    color: #333;
+  height: 480px;
+  background-image: url(${(props) => props.src});
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  }
+`;
+
+export const SliderBig = styled(AwesomeSlider)`
+.awssld__wrapper{
+  margin: 0 auto !important;
+  display: block;
+  min-height: 400px;
+  height: 480px;
+  @media screen and (max-width: 1064px) {
+    min-height: 400px;
+  height: 480px;
+  }
+}
+  .awssld__bullets{
+    display: none;
+  }
+  .awssld__content  {
+    background-color: transparent;
+    width: 100% !important;
+    position: static !important;
+  }
+  .awssld__timer {
+    background-color: transparent;
+    z-index: -1;
+  }
+  .awssld__content > div {
+    background-color: transparent;
+    width: 100%;
+    display: block;
+    height: 100%;
+  }
+  .awssld__container{
+    height: fit-content;
+  }
 `;
