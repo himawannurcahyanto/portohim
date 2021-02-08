@@ -1,4 +1,4 @@
-import ExpHima from "../images/ExpHima.png";
+import ExpHima from "../images/exp.jpg";
 
 export const ExpHomeContent = {
     "img": ExpHima,
