@@ -12,6 +12,8 @@ const AutoplaySliderBig = withAutoplay(SliderBig);
 const Home = () => {
   return (
     <>
+      <HomeBanner />
+      <HomeContent />
       <AutoplaySliderBig 
       play={true}
       cancelOnInteraction={false}
@@ -25,8 +27,6 @@ const Home = () => {
           </>
         )})}
       </AutoplaySliderBig>
-      <HomeBanner />
-      <HomeContent />
     </>
   );
 };
