@@ -10,23 +10,23 @@ import banner7 from "../images/JASARAHARJAHP.png";
 export const BannerSliderContent = [
     {
         "source": "https://drive.google.com/uc?id=1adSHfFevuDrWzu5IowWeIUpdDrhAk7vQ",
-        "small":banner1,
+        "small": banner1,
     },
     {
         "source": "https://drive.google.com/uc?id=1VjA6QV-YpPkFxrUWafgVuqxBBqnml6ed",
-        "small":banner2,
+        "small": banner2,
     },
     {
         "source": "https://drive.google.com/uc?id=1dmPe6vJkFmqERPqT4BCWOGmV5SgPSDtU",
-        "small":banner3",
+        "small": banner3,
     },
     {
         "source": "https://drive.google.com/uc?id=1Yrcwj65IMhAT23FUfBi-GpU7YuGWJarm",
-        "small":banner4,
+        "small": banner4,
     },
     {
         "source": "https://drive.google.com/uc?id=1XYUcSDKuX-C3Hvp1ebTBIj8SK7bBDovH",
-        "small":banner5,
+        "small": banner5,
     },
     {
         "source": "https://drive.google.com/uc?id=1s9d6uCuxkgl01SK6tKYLaqI0HFIsGyqC",
