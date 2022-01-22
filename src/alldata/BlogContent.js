@@ -13,6 +13,39 @@ import bestpapericeei from "../images/bestpapericeei.jpg";
 export const BlogData = [
     {
         imagee: Kuliahgo,
+        title: "Charity Webinar GPTP 13 Telkom Indonesia",
+        description:"Hello! Let's get to know more about GPTP 13. In this time, there are Mr. Helmi, Mr. Hima, and Mr. Chris. With a wealth of experience, starting from scholarships, studying abroad and a career in Multi National Company. Are you curious about the story of the GPTP 13 representative? Don't forget to join the Charity Webinar with the theme PLANS FOR THE FUTURE: SCHOLARSHIP AND CAREER. ",
+        content:{
+            par1 : "Halo sobat kakmin!",
+            par2 : "Yuk kita mengenal lebih dekat dengan kakak-kakak GPTP 13. Kali ini ada Kak Helmi, Kak Hima, dan Kak Chris. Dengan segudang pengalaman yang dimiliki mulai dari beasiswa, kuliah di luar negeri dan berkarir di Multi National Company.",
+            par3 : "Penasaran kan dengan cerita dari Kakak-kakak yang keren ini? Langsung aja swipe left, kita simak ceritanya bareng-bareng ",
+            par4 : "Jangan lupa untuk join webinar yang akan diisi oleh Kakak kakak ini sebagai pembicara nya ya",
+            par5 : "________________________________",
+            par6 : "Charity Webinar dengan tema PLANS FOR THE FUTURE: SCHOLARSHIP AND CAREER",
+            par7 : "Pembicara:",
+            par8 : "1. Christian Pandu Prasetya Bisay Peraih Beasiswa 1000 Doktor Untuk Papua - Oregon State University, USA",
+            par10 : "2. Himawan Nurcahyanto Peraih Beasiswa Excellent Researcher Scholarship Program 2020 - Kookmin University South Korea.",
+            par11 : "3. Helmi Fauzi ex-Field Engineer at Leading Global Oil & Gas Services Company",
+            par12 : "Diakhir sesi juga bakal ada SIMULASI FGD loh! Yuk! Jangan ketinggalan! Kapan lagi, dapat ilmu yang bermanfaat, sekaligus bisa ikutan bantu penanganan COVID-19 dan UMKM yang terdampak.",
+            par13 : "Catat tanggal dan waktunya yaaa:",
+            par14 : "🗓 Minggu, 22 Agustus 2021",
+            par14 : "🕘 09.00-12.00 WIB",
+            par14 : "📍 ZOOM Meeting",
+            par14 : "⏳GRATIS & KUOTA TERBATAS!!! Segera daftarkan diri kalian di link berikut https://bit.ly/DaftarCharityWebinar",
+            par15 : "#GPTP13 #13aktiUntukNegeri #telkomindonesia #livingintelkom",
+        },
+        image:{
+            par3: Kuliahgo,
+        },
+        videos: {
+            par6: true,
+        },
+        video:{
+            par6: "https://www.youtube.com/embed/ODBmAQK6IOc",
+        },
+    },
+    {
+        imagee: Kuliahgo,
         title: "Study Abroad to South Korea!",
         description:"As we know that South Korea is one of Asia’s most upcoming higher education destinations. I will define it as three kind of reason (study point of view, environment point of view, and economic point of view) why we should try South korea as our destination to study. ",
         content:{
