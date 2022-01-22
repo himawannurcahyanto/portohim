@@ -1,5 +1,29 @@
 export const PubliData = [
     {
+        year : "2022",
+        papertitle : "Multi-Level RNN-Based PM10 Air Quality Prediction for Industrial Internet of Things Applications in Cleanroom Environment",
+        confname : "SCIE Paper (WCMC Journal)",
+        pubdate : "Under Review",
+    },
+    {
+        year : "2021",
+        papertitle : "Forecasting PM2.5 Concentration Using a Single-Dense Layer BiLSTM Method",
+        confname : "SCIE Paper (MDPI Electronics Journal)",
+        pubdate : "2021-07-28",
+    },
+    {
+        year : "2021",
+        papertitle : "Battery Management using LSTM for Manhole Underground System",
+        confname : "ICAIIC 2021",
+        pubdate : "2021-04-29",
+    },
+    {
+        year : "2021",
+        papertitle : "Predictive Maintenance of Relative Humidity Using Random Forest Method",
+        confname : "ICAIIC 2021",
+        pubdate : "2021-04-29",
+    },
+    {
         year : "2021",
         papertitle : "Photovoltaic Power Generation Prediction based on Recurrent Neural Network",
         confname : "KICS WINTER 2021",
