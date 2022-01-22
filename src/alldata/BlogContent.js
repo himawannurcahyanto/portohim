@@ -8,11 +8,15 @@ import Persiapankekorea from "../images/persiapankekorea.png";
 import Solarsubmersible from "../images/solarsubmersible.png";
 import Startup from "../images/startup.png";
 import bestpapericeei from "../images/bestpapericeei.jpg";
+import webinargptp1 from "../images/Charity-01.jpg";
+import webinargptp2 from "../images/Charity-02.jpg";
+import webinargptp3 from "../images/Charity-03.jpg";
+import webinargptp4 from "../images/Charity-04.jpg";
 
 
 export const BlogData = [
     {
-        imagee: Kuliahgo,
+        imagee: webinargptp1,
         title: "Charity Webinar GPTP 13 Telkom Indonesia",
         description:"Hello! Let's get to know more about GPTP 13. In this time, there are Mr. Helmi, Mr. Hima, and Mr. Chris. With a wealth of experience, starting from scholarships, studying abroad and a career in Multi National Company. Are you curious about the story of the GPTP 13 representative? Don't forget to join the Charity Webinar with the theme PLANS FOR THE FUTURE: SCHOLARSHIP AND CAREER. ",
         content:{
@@ -35,13 +39,15 @@ export const BlogData = [
             par16 : "#GPTP13 #13aktiUntukNegeri #telkomindonesia #livingintelkom",
         },
         image:{
-            par3: Kuliahgo,
+            par8: webinargptp4,
+            par9: webinargptp3,
+            par10: webinargptp2,
         },
         videos: {
             par6: true,
         },
         video:{
-            par6: "https://www.youtube.com/embed/ODBmAQK6IOc",
+            par16: "https://www.youtube.com/embed/ODBmAQK6IOc",
         },
     },
     {
