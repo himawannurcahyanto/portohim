@@ -8,7 +8,7 @@ export const AchBanData = [
         name: "Competitions",
     },
     {
-        number: 8,
+        number: 11,
         name: "Publications",
     },
     {
