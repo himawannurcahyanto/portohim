@@ -16,7 +16,7 @@ export const AchBanData = [
         name: "Projects",
     },
     {
-        number: 1,
+        number: 2,
         name: "Submited Patents",
     },
     {
