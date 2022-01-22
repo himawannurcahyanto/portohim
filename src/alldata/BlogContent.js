@@ -16,6 +16,29 @@ import webinargptp4 from "../images/Charity-04.jpg";
 
 export const BlogData = [
     {
+        imagee: Kuliahgo,
+        title: "MOSLEM GO INTERNATIONAL",
+        description:"Bismillahirrahmanirrahim. Assalamualaikum. Muslim Go International will return this year as one of the series of Hijrah Fair 2021. Now, MGI has evolved into Moslem Go International with two speakers who are definitely super cool. Let's check for more info.",
+        content:{
+            par1 : "Bismillahirrahmanirrahim Assalamu'alaikum wr wb",
+            par2 : "Muslim Go International akan kembali tahun ini sebagai salah satu rangkaian dari Hijrah Fair 2021. Kini, MGI berevolusi menjadi Moslem Go International dengan dua pembicara yang pastinya super keren. Penasaran? Yuk cek info lebih lanjutnya dibawah!",
+            par3 : "Hari, tanggal: Sabtu, 30 Oktober 2021",
+            par4 : "Waktu: 10.00 WIB-Selesai",
+            par5 : "Tempat: Online Meeting",
+            par6 : "Pembicara 1 : Himawan Nurcahyanto-Artificial Intelligence Engineer-Kookmin University, South Korea.",
+            par7 : "Pembicara 2 : Prio Adhi Setiawan-Senior Project Management for Product Development in Aircraft Industry, Germany",
+            par8 : "Tema : Menjadi Pemuda Petualang dan Pejuang Ilmu Laksana Imam Bukhari ",
+            par9 : "Yukk mari ikut temen-temen, abang-abang, Kakak-kakak kapan lagi bisa ikut acara super keren dengan pembicara dari 2 benua berbeda.",
+            par10 : "FUSI FTUI 2021 #WarnaUntukTeknik",
+        },
+        videos: {
+            par9: true,
+        },
+        video:{
+            par9: "https://www.youtube.com/embed/RSdmX8z9n5k",
+        },
+    },
+    {
         imagee: webinargptp1,
         title: "Charity Webinar GPTP 13 Telkom Indonesia",
         description:"Hello! Let's get to know more about GPTP 13. In this time, there are Mr. Helmi, Mr. Hima, and Mr. Chris. With a wealth of experience, starting from scholarships, studying abroad and a career in Multi National Company. Are you curious about the story of the GPTP 13 representative? Don't forget to join the Charity Webinar with the theme PLANS FOR THE FUTURE: SCHOLARSHIP AND CAREER. ",
