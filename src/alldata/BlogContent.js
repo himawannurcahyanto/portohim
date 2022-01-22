@@ -13,11 +13,11 @@ import webinargptp2 from "../images/Charity-02.jpg";
 import webinargptp3 from "../images/Charity-03.jpg";
 import webinargptp4 from "../images/Charity-04.jpg";
 import moslemgoint from "../images/moslemgoint.jpeg";
-
+import donasibanjirsintang from "../images/donasibanjirsintang.jpeg";
 
 export const BlogData = [
     {
-        imagee: Kuliahgo,
+        imagee: donasibanjirsintang,
         title: "SINTANG FLOOD DONATION",
         description:"Telkom handed over flood recovery assistance for flood-impacted areas through Sintang Sanggau on December 17, 2021. Previously, during the flood, Telkom had distributed food packages assistance. On 17 December 21 recovery assistance in the amount of Rp. 100,000,000 was handed over through the Baznas Sintang Sanggau Melawi and was received by representatives of the three regency baznas management, namely Murtadho AH, Uun Suhadi and Syahrial, symbolically by the General Manager of Telkom West Kalimantan Prio Sesanto",
         content:{
@@ -25,13 +25,13 @@ export const BlogData = [
             par1 : "Reposted from Instagram @livingintelkomkalbar",
         },
         image:{
-            par3: Kuliahgo,
+            par3: null,
         },
         videos: {
             par6: true,
         },
         video:{
-            par6: "https://www.youtube.com/embed/RSdmX8z9n5k",
+            par6: null,
         },
     },
     {
