@@ -22,21 +22,24 @@ export const BlogData = [
         content:{
             par1 : "Halo sobat kakmin!Yuk kita mengenal lebih dekat dengan kakak-kakak GPTP 13. Kali ini ada Kak Helmi, Kak Hima, dan Kak Chris. Dengan segudang pengalaman yang dimiliki mulai dari beasiswa, kuliah di luar negeri dan berkarir di Multi National Company. Penasaran kan dengan cerita dari Kakak-kakak yang keren ini? Langsung aja swipe left, kita simak ceritanya bareng-bareng. Jangan lupa untuk join webinar yang akan diisi oleh Kakak kakak ini sebagai pembicara nya ya",
             par2 : "Charity Webinar dengan tema PLANS FOR THE FUTURE: SCHOLARSHIP AND CAREER",
-            par3 : "Pembicara: 1. Christian Pandu Prasetya Bisay Peraih Beasiswa 1000 Doktor Untuk Papua - Oregon State University, USA .  2. Himawan Nurcahyanto Peraih Beasiswa Excellent Researcher Scholarship Program 2020 - Kookmin University South Korea.  3. Helmi Fauzi ex-Field Engineer at Leading Global Oil & Gas Services Company",
-            par4 : "Diakhir sesi juga bakal ada SIMULASI FGD loh! Yuk! Jangan ketinggalan! Kapan lagi, dapat ilmu yang bermanfaat, sekaligus bisa ikutan bantu penanganan COVID-19 dan UMKM yang terdampak.",
-            par5 : "⏳GRATIS & KUOTA TERBATAS!!! Segera daftarkan diri kalian di link berikut https://bit.ly/DaftarCharityWebinar",
-            par6 : "#GPTP13 #13aktiUntukNegeri #telkomindonesia #livingintelkom",
+            par3 : "Pembicara:",
+            par4 : "1. Christian Pandu Prasetya Bisay Peraih Beasiswa 1000 Doktor Untuk Papua - Oregon State University, USA.",
+            par5 : "2. Himawan Nurcahyanto Peraih Beasiswa Excellent Researcher Scholarship Program 2020 - Kookmin University South Korea.",
+            par6 : "3. Helmi Fauzi ex-Field Engineer at Leading Global Oil & Gas Services Company.",
+            par7 : "Diakhir sesi juga bakal ada SIMULASI FGD loh! Yuk! Jangan ketinggalan! Kapan lagi, dapat ilmu yang bermanfaat, sekaligus bisa ikutan bantu penanganan COVID-19 dan UMKM yang terdampak.",
+            par8 : "⏳GRATIS & KUOTA TERBATAS!!! Segera daftarkan diri kalian di link berikut https://bit.ly/DaftarCharityWebinar",
+            par9 : "#GPTP13 #13aktiUntukNegeri #telkomindonesia #livingintelkom",
         },
         image:{
-            par3: webinargptp4,
-            par3: webinargptp3,
-            par3: webinargptp2,
+            par4: webinargptp4,
+            par5: webinargptp3,
+            par6: webinargptp2,
         },
         videos: {
-            par5: true,
+            par9: true,
         },
         video:{
-            par5: "https://www.youtube.com/embed/ODBmAQK6IOc",
+            par9: "https://www.youtube.com/embed/ODBmAQK6IOc",
         },
     },
     {
