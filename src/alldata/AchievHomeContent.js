@@ -1,4 +1,4 @@
-import achhima from "../images/achhima.png";
+import achhima from "../images/achhima1.png";
 
 export const AchHomeContent = {
     "img":achhima,
