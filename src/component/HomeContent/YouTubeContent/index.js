@@ -12,7 +12,7 @@ const YouTubeContent = () => {
             <YTContainer>
                 <YTPictPart>
                 <YouTube 
-                    src="https://www.youtube.com/embed/4tB945cWbyo"
+                    src="https://www.youtube.com/embed/ODBmAQK6IOc"
                     frameborder={`0`}
                     allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen`}
                     allowfullscreen={true}/>
