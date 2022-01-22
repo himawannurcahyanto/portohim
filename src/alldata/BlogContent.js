@@ -32,6 +32,9 @@ export const BlogData = [
             par9 : "Yukk mari ikut temen-temen, abang-abang, Kakak-kakak kapan lagi bisa ikut acara super keren dengan pembicara dari 2 benua berbeda.",
             par10 : "FUSI FTUI 2021 #WarnaUntukTeknik",
         },
+        image:{
+            par1: null,
+        },
         videos: {
             par9: true,
         },
