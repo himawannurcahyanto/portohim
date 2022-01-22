@@ -22,16 +22,16 @@ export const BlogData = [
         description:"Telkom handed over flood recovery assistance for flood-impacted areas through Sintang Sanggau on December 17, 2021. Previously, during the flood, Telkom had distributed food packages assistance. On 17 December 21 recovery assistance in the amount of Rp. 100,000,000 was handed over through the Baznas Sintang Sanggau Melawi and was received by representatives of the three regency baznas management, namely Murtadho AH, Uun Suhadi and Syahrial, symbolically by the General Manager of Telkom West Kalimantan Prio Sesanto",
         content:{
             par1 : "Again Telkom handed over flood recovery assistance for flood-impacted areas through Sintang Sanggau on December 17, 2021. Previously, during the flood, Telkom had distributed food packages assistance. On 17 December 21 recovery assistance in the amount of Rp. 100,000,000 was handed over through the Baznas Sintang Sanggau Melawi and was received by representatives of the three regency baznas management, namely Murtadho AH, Uun Suhadi and Syahrial, symbolically by the General Manager of Telkom West Kalimantan Prio Sesanto. In addition, Prio Sesanto and Head of Representative Office from Datel Sanggau and Sintang also handed over assistance in the form of basic necessities to 2 RT residents around the Telkom Sintang office environment worth Rp. 50,000,000 represented by the Head of RT 3 RW1 kelurahan Alay, Kecamatan Sintang, Agus Priyadi and Head of RT 8/RW3, Kelurahan Alay, Kec Sintang. The symbolic handover was carried out at RM Cita Rasa Jl. Lintas Melawi continued with handing over to residents of the two RTs which were located around the Telkom office",
-            par1 : "Reposted from Instagram @livingintelkomkalbar",
+            par2 : "Reposted from Instagram @livingintelkomkalbar",
         },
         image:{
-            par3: null,
+            par1: null,
         },
         videos: {
-            par6: true,
+            par1: true,
         },
         video:{
-            par6: null,
+            par1: null,
         },
     },
     {
