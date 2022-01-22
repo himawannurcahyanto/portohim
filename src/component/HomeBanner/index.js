@@ -12,7 +12,7 @@ const HomeBanner = () => {
                 <IntroPart>
                     <Intro>HELLO! MY NAME IS</Intro>
                     <Intro big normal >Himawan Nurcahyanto</Intro>
-                    <Intro normal jobs >Head of Representative Office <br />at Telkom Indonesia</Intro>
+                    <Intro normal jobs >Artificial Intelligence Engineer<br />at WicomAI Lab South Korea</Intro>
                     <a href={ResumeData.resume}><Homebtn>Download Resume</Homebtn></a>
                 </IntroPart>
                 <ImgPart>
