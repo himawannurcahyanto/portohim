@@ -39,7 +39,7 @@ export const BlogData = [
             par9: true,
         },
         video:{
-            par9: "https://www.youtube.com/embed/RSdmX8z9n5k",
+            par9: "https://www.youtube.com/embed/eBU1Ft7YSpo",
         },
     },
     {
