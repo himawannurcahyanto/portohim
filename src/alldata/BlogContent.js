@@ -23,9 +23,9 @@ export const BlogData = [
         content:{
             par1 : "Bismillahirrahmanirrahim Assalamu'alaikum wr wb",
             par2 : "Muslim Go International akan kembali tahun ini sebagai salah satu rangkaian dari Hijrah Fair 2021. Kini, MGI berevolusi menjadi Moslem Go International dengan dua pembicara yang pastinya super keren. Penasaran? Yuk cek info lebih lanjutnya dibawah!",
-            par3 : "Hari, tanggal: Sabtu, 30 Oktober 2021",
-            par4 : "Waktu: 10.00 WIB-Selesai",
-            par5 : "Tempat: Online Meeting",
+            par3 : "🗓 Hari, tanggal: Sabtu, 30 Oktober 2021",
+            par4 : "🕘 Waktu: 10.00 WIB-Selesai",
+            par5 : "📍 Tempat: Online Meeting",
             par6 : "Pembicara 1 : Himawan Nurcahyanto-Artificial Intelligence Engineer-Kookmin University, South Korea.",
             par7 : "Pembicara 2 : Prio Adhi Setiawan-Senior Project Management for Product Development in Aircraft Industry, Germany",
             par8 : "Tema : Menjadi Pemuda Petualang dan Pejuang Ilmu Laksana Imam Bukhari ",
