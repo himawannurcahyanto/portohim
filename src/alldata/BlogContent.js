@@ -12,11 +12,12 @@ import webinargptp1 from "../images/Charity-01.jpg";
 import webinargptp2 from "../images/Charity-02.jpg";
 import webinargptp3 from "../images/Charity-03.jpg";
 import webinargptp4 from "../images/Charity-04.jpg";
+import moslemgoint from "../images/moslemgoint.jpeg";
 
 
 export const BlogData = [
     {
-        imagee: Kuliahgo,
+        imagee: moslemgoint,
         title: "MOSLEM GO INTERNATIONAL",
         description:"Bismillahirrahmanirrahim. Assalamualaikum. Muslim Go International will return this year as one of the series of Hijrah Fair 2021. Now, MGI has evolved into Moslem Go International with two speakers who are definitely super cool. Let's check for more info.",
         content:{
