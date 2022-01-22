@@ -29,15 +29,15 @@ export const BlogData = [
             par8 : "#GPTP13 #13aktiUntukNegeri #telkomindonesia #livingintelkom",
         },
         image:{
-            par8: webinargptp4,
-            par9: webinargptp3,
-            par10: webinargptp2,
+            par7: webinargptp4,
+            par7: webinargptp3,
+            par7: webinargptp2,
         },
         videos: {
-            par6: true,
+            par8: true,
         },
         video:{
-            par16: "https://www.youtube.com/embed/ODBmAQK6IOc",
+            par8: "https://www.youtube.com/embed/ODBmAQK6IOc",
         },
     },
     {
