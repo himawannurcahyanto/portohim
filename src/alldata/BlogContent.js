@@ -13,7 +13,7 @@ import webinargptp2 from "../images/Charity-02.jpg";
 import webinargptp3 from "../images/Charity-03.jpg";
 import webinargptp4 from "../images/Charity-04.jpg";
 import moslemgoint from "../images/moslemgoint.jpeg";
-import donasibanjirsintang from "../images/donasibanjirsintang.jpeg";
+import donasibanjirsintang from "../images/donasibanjirsintang.JPEG";
 
 export const BlogData = [
     {
