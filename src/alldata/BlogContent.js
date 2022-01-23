@@ -14,10 +14,12 @@ import webinargptp3 from "../images/Charity-03.jpg";
 import webinargptp4 from "../images/Charity-04.jpg";
 import moslemgoint from "../images/moslemgoint.jpeg";
 import donasibanjirsintang from "../images/donasibanjirsintang.JPEG";
+import podcastprofbud1 from "../images/podcastprofbud1.png";
+
 
 export const BlogData = [
     {
-        imagee: donasibanjirsintang,
+        imagee: podcastprofbud1,
         title: "Budimansyah Podcast. Sharing about AI, IoE, Renewable Energy and Gangnam Style Korea.",
         description:"Hello everyone, on this occasion I was invited by Professor Budimansyah from the Indonesian University of Education, to share my experiences and talk casually about Artificial Intelligence, Internet of Energy, and also Renewable Energy in South Korea. Not only explaining those topics but also I was invited to share about the South Korean culture from its traditional and modern style. One of the interesting things that made Professor Budimansyah curious is about the Gangnam style in Korea. Check the full video here.",
         content:{
