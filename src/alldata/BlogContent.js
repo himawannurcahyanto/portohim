@@ -18,6 +18,23 @@ import donasibanjirsintang from "../images/donasibanjirsintang.JPEG";
 export const BlogData = [
     {
         imagee: donasibanjirsintang,
+        title: "Budimansyah Podcast. Sharing about AI, IoE, Renewable Energy and Gangnam Style Korea.",
+        description:"Hello everyone, on this occasion I was invited by Professor Budimansyah from the Indonesian University of Education, to share my experiences and talk casually about Artificial Intelligence, Internet of Energy, and also Renewable Energy in South Korea. Not only explaining those topics but also I was invited to share about the South Korean culture from its traditional and modern style. One of the interesting things that made Professor Budimansyah curious is about the Gangnam style in Korea. Check the full video here.",
+        content:{
+            par1 : "Hello everyone, on this occasion I was invited by Professor Budimansyah from the Indonesian University of Education, to share my experiences and talk casually about Artificial Intelligence, Internet of Energy, and also Renewable Energy in South Korea. Not only explaining those topics but also I was invited to share about the South Korean culture from its traditional and modern style. One of the interesting things that made Professor Budimansyah curious is about the Gangnam style in Korea. Check the full video here.",
+        },
+        image:{
+            par1: null,
+        },
+        videos: {
+            par1: true,
+        },
+        video:{
+            par1: "https://www.youtube.com/embed/UzBiFcXNiMA",
+        },
+    },
+    {
+        imagee: donasibanjirsintang,
         title: "SINTANG FLOOD DONATION",
         description:"Telkom handed over flood recovery assistance for flood-impacted areas through Sintang Sanggau on December 17, 2021. Previously, during the flood, Telkom had distributed food packages assistance. On 17 December 21 recovery assistance in the amount of Rp. 100,000,000 was handed over through the Baznas Sintang Sanggau Melawi and was received by representatives of the three regency baznas management, namely Murtadho AH, Uun Suhadi and Syahrial, symbolically by the General Manager of Telkom West Kalimantan Prio Sesanto",
         content:{
