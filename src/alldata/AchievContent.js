@@ -32,7 +32,7 @@ export const AchBanData = [
         name: "Scholarships",
     },
     {
-        number: 6,
+        number: 8,
         name: "Courses",
     },
 ]
