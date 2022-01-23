@@ -1,4 +1,14 @@
 export const CourseData = [
+     {
+        course : "Special Topic on Smart Grid",
+        date : "March - July",
+        credit : "3",
+    }, 
+    {
+        course : "Shipboard Electrical Power System",
+        date : "March - July",
+        credit : "3",
+    },
     {
         course : "Energy Business Model",
         date : "September - December",
