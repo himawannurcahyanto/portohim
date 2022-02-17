@@ -16,10 +16,11 @@ import moslemgoint from "../images/moslemgoint.jpeg";
 import donasibanjirsintang from "../images/donasibanjirsintang.JPEG";
 import podcastprofbud1 from "../images/podcastprofbud1.png";
 import lumadeps1 from "../images/lumadeps1.png";
+import bestocchero from "../images/WEBINAR_Best Occupancy_HERO.png";
 
 export const BlogData = [
     {
-        imagee: lumadeps1,
+        imagee: bestocchero,
         title: "WEBINAR HERO OCCUPANCY CHAMPION",
         description:"Planning Engineering and Deployment Unit from Telkom Indonesia Region VI proudly present a Sharing Session Webinar. In this time, the speaker is from the Head of Representative Office in Ngabang area. The webinar topics is about HERO Occupancy Champion and it will explain how to plan and maximize optical distribution point in the Telkom Indonesia’s operating area. In addition, Hima as a HERO from Ngabang will share the tips and tricks how to get the BEST OCCUPANCY HERO AWARD. ",
         content:{
