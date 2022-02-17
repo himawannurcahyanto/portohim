@@ -20,6 +20,24 @@ import lumadeps1 from "../images/lumadeps1.png";
 export const BlogData = [
     {
         imagee: lumadeps1,
+        title: "WEBINAR HERO OCCUPANCY CHAMPION",
+        description:"Planning Engineering and Deployment Unit from Telkom Indonesia Region VI proudly present a Sharing Session Webinar. In this time, the speaker is from the Head of Representative Office in Ngabang area. The webinar topics is about HERO Occupancy Champion and it will explain how to plan and maximize optical distribution point in the Telkom Indonesia’s operating area. In addition, Hima as a HERO from Ngabang will share the tips and tricks how to get the BEST OCCUPANCY HERO AWARD. ",
+        content:{
+            par1 : "Planning Engineering and Deployment Unit from Telkom Indonesia Region VI proudly present a Sharing Session Webinar. In this time, the speaker is from the Head of Representative Office in Ngabang area. The webinar topics is about HERO Occupancy Champion and it will explain how to plan and maximize optical distribution point in the Telkom Indonesia’s operating area. In addition, Hima as a HERO from Ngabang will share the tips and tricks how to get the BEST OCCUPANCY HERO AWARD. ",
+            par2 : "BEST REGARD! BORNEO WARRIOR!!"
+        },
+        image:{
+            par1: null,
+        },
+        videos: {
+            par2: true,
+        },
+        video:{
+            par2: null,
+        },
+    },
+    {
+        imagee: lumadeps1,
         title: "PODCAST LUMAD EPS 1",
         description:"Keluhan Muda Mudi or abbreviated as LUMAD is an inspirational podcast channel to open the minds of the younger generation. In this podcast, LUMAD invites one of the speakers, Himawan Nurcahyanto. He has completed his master's degree in South Korea and currently working as a management trainee at a state-owned enterprise (BUMN) in Indonesia. The purpose of this podcast is to provide colleagues with an insight about Master's Degree in Korea and also working in conditions of ordinary people that it is still possible for you to achieve. Hope it is useful! Enjoy!",
         content:{
