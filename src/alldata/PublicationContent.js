@@ -1,9 +1,15 @@
 export const PubliData = [
     {
         year : "2022",
+        papertitle : "An energy and leakage current monitoring system for abnormality detection in electrical appliances",
+        confname : "SCIE Paper (Nature Journal)",
+        pubdate : "2022-10-02",
+    },
+    {
+        year : "2022",
         papertitle : "Multi-Level RNN-Based PM10 Air Quality Prediction for Industrial Internet of Things Applications in Cleanroom Environment",
         confname : "SCIE Paper (WCMC Journal)",
-        pubdate : "Under Review",
+        pubdate : "2022-03-22",
     },
     {
         year : "2021",
