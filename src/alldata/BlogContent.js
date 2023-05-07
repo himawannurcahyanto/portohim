@@ -38,6 +38,24 @@ export const BlogData = [
         },
     },
     {
+        imagee: bestocchero,
+        title: "KULIAH UMUM ITPLN April 2022",
+        description:"  As a speaker at a public lecture at the PLN Institute of Technology on April 5 2022. The topic of discussion in this class is the Distribution Management System. Lectures were attended by more than 30 students and lecturers in Renewable energy courses. ",
+        content:{
+            par1 : "As a speaker at a public lecture at the PLN Institute of Technology on April 5 2022. The topic of discussion in this class is the Distribution Management System. Lectures were attended by more than 30 students and lecturers in Renewable energy courses.. ",
+            par2 : null
+        },
+        image:{
+            par1: null,
+        },
+        videos: {
+            par2: true,
+        },
+        video:{
+            par2: null,
+        },
+    },
+    {
         imagee: lumadeps1,
         title: "PODCAST LUMAD EPS 1",
         description:"Keluhan Muda Mudi or abbreviated as LUMAD is an inspirational podcast channel to open the minds of the younger generation. In this podcast, LUMAD invites one of the speakers, Himawan Nurcahyanto. He has completed his master's degree in South Korea and currently working as a management trainee at a state-owned enterprise (BUMN) in Indonesia. The purpose of this podcast is to provide colleagues with an insight about Master's Degree in Korea and also working in conditions of ordinary people that it is still possible for you to achieve. Hope it is useful! Enjoy!",
