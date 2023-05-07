@@ -6,6 +6,7 @@ import Ui3 from "../images/ui3.jpeg";
 import Smabo2 from "../images/SMA1.png";
 import kmu1 from "../images/fotodirikookmin.JPG";
 import sma1 from "../images/fotodirisma.jpg";
+import psppiftui from "../images/psppiftui.jpg";
 
 export const EduData = [
     {
@@ -13,8 +14,8 @@ export const EduData = [
         edu: "Universitas Indonesia",
         major:"Professional Engineering Degree Program (Ir.)",
         year: "2022 - 2023",
-        desc:" Focus in implementation of engineering ethics, professionalism, safety (K3L), and Telecommunication study case for engineering. ",
-        imgr: Ui3,
+        desc:" Focus in implementation of engineering ethics, professionalism, HSE, and Telecommunication study case for engineering in rural area. ",
+        imgr: psppiftui,
     },
     {
         imgl: Kookmin,
