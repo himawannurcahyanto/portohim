@@ -17,15 +17,16 @@ import donasibanjirsintang from "../images/donasibanjirsintang.JPEG";
 import podcastprofbud1 from "../images/podcastprofbud1.png";
 import lumadeps1 from "../images/lumadeps1.png";
 import bestocchero from "../images/WEBINAR_Best Occupancy_HERO.png";
+import itpln from "../images/itpln.png";
 
 export const BlogData = [
     {
-        imagee: bestocchero,
-        title: "WEBINAR HERO OCCUPANCY CHAMPION",
-        description:"Planning Engineering and Deployment Unit from Telkom Indonesia Region VI proudly present a Sharing Session Webinar. In this time, the speaker is from the Head of Representative Office in Ngabang area. The webinar topics is about HERO Occupancy Champion and it will explain how to plan and maximize optical distribution point in the Telkom Indonesia’s operating area. In addition, Hima as a HERO from Ngabang will share the tips and tricks how to get the BEST OCCUPANCY HERO AWARD. ",
+        imagee: itpln,
+        title: "KULIAH UMUM ITPLN April 2022",
+        description:"  As a speaker at a public lecture at the PLN Institute of Technology on April 5 2022. The topic of discussion in this class is the Distribution Management System. Lectures were attended by more than 30 students and lecturers in Renewable energy courses. ",
         content:{
-            par1 : "Planning Engineering and Deployment Unit from Telkom Indonesia Region VI proudly present a Sharing Session Webinar. In this time, the speaker is from the Head of Representative Office in Ngabang area. The webinar topics is about HERO Occupancy Champion and it will explain how to plan and maximize optical distribution point in the Telkom Indonesia’s operating area. In addition, Hima as a HERO from Ngabang will share the tips and tricks how to get the BEST OCCUPANCY HERO AWARD. ",
-            par2 : "BEST REGARD! BORNEO WARRIOR!!"
+            par1 : "As a speaker at a public lecture at the PLN Institute of Technology on April 5 2022. The topic of discussion in this class is the Distribution Management System. Lectures were attended by more than 30 students and lecturers in Renewable energy courses.. ",
+            par2 : null
         },
         image:{
             par1: null,
@@ -39,11 +40,11 @@ export const BlogData = [
     },
     {
         imagee: bestocchero,
-        title: "KULIAH UMUM ITPLN April 2022",
-        description:"  As a speaker at a public lecture at the PLN Institute of Technology on April 5 2022. The topic of discussion in this class is the Distribution Management System. Lectures were attended by more than 30 students and lecturers in Renewable energy courses. ",
+        title: "WEBINAR HERO OCCUPANCY CHAMPION",
+        description:"Planning Engineering and Deployment Unit from Telkom Indonesia Region VI proudly present a Sharing Session Webinar. In this time, the speaker is from the Head of Representative Office in Ngabang area. The webinar topics is about HERO Occupancy Champion and it will explain how to plan and maximize optical distribution point in the Telkom Indonesia’s operating area. In addition, Hima as a HERO from Ngabang will share the tips and tricks how to get the BEST OCCUPANCY HERO AWARD. ",
         content:{
-            par1 : "As a speaker at a public lecture at the PLN Institute of Technology on April 5 2022. The topic of discussion in this class is the Distribution Management System. Lectures were attended by more than 30 students and lecturers in Renewable energy courses.. ",
-            par2 : null
+            par1 : "Planning Engineering and Deployment Unit from Telkom Indonesia Region VI proudly present a Sharing Session Webinar. In this time, the speaker is from the Head of Representative Office in Ngabang area. The webinar topics is about HERO Occupancy Champion and it will explain how to plan and maximize optical distribution point in the Telkom Indonesia’s operating area. In addition, Hima as a HERO from Ngabang will share the tips and tricks how to get the BEST OCCUPANCY HERO AWARD. ",
+            par2 : "BEST REGARD! BORNEO WARRIOR!!"
         },
         image:{
             par1: null,
